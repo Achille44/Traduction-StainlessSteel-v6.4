@@ -1,0 +1,45 @@
+{archbishop1}	Archevêque du Royaume
+{archbishop1_desc}	Ce prêtre est monté aux fonctions religieuses les plus hautes dans le Royaume. Il est vraiment un conseiller désintéressé, spirituel, sage pour le Roi.
+{archbishop1_effects_desc}	+1 en piété, a plus de mouvement.
+{archbishop2}	Archevêque du Royaume
+{archbishop2_desc}	Ce prêtre est monté aux fonctions religieuses les plus hautes dans le Royaume.  Cependant, il y voit une occasion d'accomplir ses soifs de désirs terrestres et de pouvoir!
+{archbishop2_effects_desc}	-2 en piété, a plus de mouvement.
+{archbishop3}	Patriarche de l'Église Orthodoxe
+{archbishop3_desc}	Ce prêtre est monté aux fonctions religieuses les plus hautes dans l'Empire Byzantin. Il est vraiment un conseiller désintéressé, spirituel, sage pour le Roi.
+{archbishop3_effects_desc}	+2 en piété, a plus de mouvement.
+{archbishop4}	Patriarche de l'Église Orthodoxe
+{archbishop4_desc}	Ce prêtre est monté aux fonctions religieuses les plus hautes dans l'Empire Byzantine.  Cependant, il y voit une occasion d'accomplir ses soifs de désirs terrestres et de pouvoir!
+{archbishop4_effects_desc}	-4 en piété, a plus de mouvement.
+{assassingm}	Grand-maître des assassins
+{assassingm_desc}	Cet homme n'est nullement différent d'un autre. Il a beaucoup de témoins qui jurent ce fait par la torture et la douleur de la mort. Regard ailleurs pour un homme de n'importe quelle condition.
+{assassingm_effects_desc}	Augmente l'habilité et le mouvement.
+{bookdekells}	Le Livre de Kell
+{carnival}	Relations de Fête de Carnaval
+{carnival_desc}	Une invitation au Carnaval, que cet homme peut arranger, peut mener à toutes sortes de choses... Si quelqu'un va disparaître dans un canal ... bien, une mort heureuse est une bonne mort.
+{carnival_effects_desc}	+1 en compétence.
+{chamberlain}	Lord High Chamberlain"
+{chamberlain_desc}	Votre Chambellan, monseigneur, surveille votre ménage et affirme votre en autorité à ceux qui doivent se souvenir qui est responsable!
+{chamberlain_effects_desc}	+1 en autorité.
+{chancellor}	Lord High Chancellor
+{chancellor_desc}	Votre Chancelier surveille le système de justice de la cour, monseigneur. Un homme avec lequel il ne faut pas être brouillé.
+{chancellor_effects_desc}	+1 en loi.
+{fastolf}	John Fastolf"
+{fastolf_desc}	John Fastolf, un soldat anglais, est un Commandementant militaire remarquable, particulièrement en infanterie.
+{fastolf_effects_desc}	Bonus en Commandementement d'infanterie et en moral
+{heir_orb}	Héritier présomptif
+{heir_orb_desc}	Le détenteur de cette promesse héritera du trône de votre Royaume.
+{heir_orb_effects_desc}	+1 en loyauté
+{hospitalgm}	Grand-maître des Chevaliers Hospitaliers
+{hospitalgm_desc}	Cet homme, par la manœuvre politique judicieuse ou fidélité sérieuse à son Ordre, a impressionné ses camarades Chevaliers assez pour être élu comme leur Grand-maître.
+{hospitalgm_effects_desc}	Augmente en commerce, en piété, en mouvement; augmentation en Commandementement, particulièrement en cavalerie. Cet homme n'est probablement pas facilement suborné. Comme tout le monde sait, les Grands-maîtres du Temple sont particulièrement effrayants dans le combat contre l'ennemi Musulman.
+{kells_desc}	Ce livre glorieusement illuminé, fait du vélin le plus excellent, est inestimable.
+{kells_effects_desc}	Augmente la piété.
+{kingmaker1}	Faiseur de rois
+{kingmaker1_desc}	La noblesse du Roi respecte cet homme qui a aidé le Roi à accéder au trône lors d'une succession contestée. Il est une éminence grise crainte et le Roi, son cher ami, est certainement à son écoute.
+{kingmaker1_effects_desc}	+1 en autorité
+{kingmaker2}	Faiseur de rois
+{kingmaker2_desc}	Cet homme a aidé votre Roi à accéder au trône. Cependant les moyens qu'il a utilisés n'ont pas impressionné la Noblesse du Royaume. Il semble faible et le Roi plus faible encore.
+{kingmaker2_effects_desc}	-2 en autorité
+{kings_treasurer}	Trésorier royal
+{kings_treasurer_desc}	Le propre trésorier du Roi est un homme avec des responsabilités énormes et des tentations énormes…
+{kings_treasurer_effects_desc}	+5 % sur les taxes, Pourrait être suborné et l'accès à l'argent peut rendre un homme moins ... pieux.
