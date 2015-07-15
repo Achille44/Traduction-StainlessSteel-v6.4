@@ -16,8 +16,6 @@ Tout élément déjà traduit se révélant ne pas être présent dans l'équiva
 
 
 forme à vérifier : 
-- export_ancillaries
-- export_buildings
 - export_units
 - export_vnvs
 - factionintrosubtitles
@@ -35,6 +33,7 @@ forme à vérifier :
 
 
 contenu à traduire : 
+- export_units
 - export_vnvs
 
 
@@ -46,6 +45,8 @@ contenu à vérifier :
 - climates
 - diplomacy
 - expanded
+- export_ancillaries
+- export_buildings
 
 
 ================================================================================================
@@ -53,4 +54,4 @@ contenu à vérifier :
 ================================================================================================
 
 
-Achille44 : vérification forme export_ancillaries, ligne 300
+Achille44 : export_units ligne 50
