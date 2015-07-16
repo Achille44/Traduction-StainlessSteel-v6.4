@@ -702,10 +702,7 @@
 {Granadine_Lancers_descr}	Qualité : Supérieure.\nType : Professionnel de période avancée (entraînement plus long basé sur le type d'unité et la qualité, plus grande proportion d'unités disciplinées) .\n\nCette unité de cavalerie lourde de mêlée se recrute parmi les Maures du sud de l'Espagne. Leur équipement et leurs tactiques ont été influencés par leurs ennemis chrétiens, car ils préfèrent l'armure lourde et l'assaut à la tradition de cavalerie légère de leurs ancêtres.
 {Granadine_Lancers}	Lanciers de Grenade
 {Grand_Master_Ulrich_descr_short}	Le grand maître Ulrich von Jungingen et sa garde.
-{Grand_Master_Ulrich_descr_short}	Le grand maître Ulrich von Jungingen et sa garde.
 {Grand_Master_Ulrich_descr}	Le grand maître Ulrich von Jungingen et sa garde.
-{Grand_Master_Ulrich_descr}	Le grand maître Ulrich von Jungingen et sa garde.
-{Grand_Master_Ulrich}	Ulrich von Jungingen
 {Grand_Master_Ulrich}	Ulrich von Jungingen
 {grande_carrack_descr_short}	Navire de guerre comptant parmi les plus puissants. Ses travers hérissés de canons et sa coque épaisse lui permettent de braver les océans. 
 {grande_carrack_descr}	Ce navire est l'ancêtre des célèbres galions des siècles suivants. Utilisé à la fin du XVe siècle et au début du XVIe siècle, ce vaisseau est plus grand, mieux armé et mieux protégé que la caraque. Extrêmement puissant, il est très difficile à couler.
@@ -716,9 +713,6 @@
 {Greek_Arquebusiers_descr_short}	Fired at close range, this noisy, smoky and lethal weapon causes morale damage as well as physical hurt.
 {Greek_Arquebusiers_descr}	Qualité : Moyenne.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nDe près, le tir de ces troupes est assez précis et l'arquebuse n'explose que rarement dans les mains de celui qui l'utilise. Létal et bruyant, cet ancêtre du mousquet dégage beaucoup de fumée et est capable de percer la plupart des armures. Son tir est si effrayant que l'ennemi visé prend parfois ses jambes à son cou.
 {Greek_Arquebusiers}	Roman Arquebusiers
-{Greek_Bodyguard_descr_short}	Bien armée et équipée, cette unité d'élite est chargée de protéger le général de l'armée et de combattre à ses côtés.
-{Greek_Bodyguard_descr}	Qualité : Exceptionnelle.\n\nCette redoutable troupe protège le général et l'accompagne sur le champ de bataille. Ses membres sont choisis pour leurs faits d'armes et leur loyauté. Equipés d'une lance et d'une armure de mailles renforcées, voire en partie de plates, ces guerriers survivent à nombre de situations périlleuses pour d'autres unités. Les charges dévastatrices de cette unité déstabilisent presque tout ennemi.
-{Greek_Bodyguard}	Garde du corps du général
 {Greek_Firethrower_descr_short}	A devastating and terrifying weapon shooting spurts of liquid fire. Consisting of a small hand pump connected to a container. REQUIRES CONSTANTINOPLE.
 {Greek_Firethrower_descr}	Qualité : Moyenne.\nType : Professionnel urbain (entraînement plus long basé sur le type d'unité et la qualité, plus grande proportion d'unités disciplinées).\n\nRoman Fire is one of the most terrifying weapons available in the Medieval World. The Romans first used it in naval battles, but soon found applications for its use on land. Consisting of a small hand pump connected to a container, it is capable of burning even underwater and sticks to its target, while being almost impossible to put out. REQUIRES CONSTANTINOPLE.
 {Greek_Firethrower}	Roman Fire-thrower
@@ -1697,9 +1691,6 @@
 {Varangian_Archers_descr_short}	Armed with a bow, a sword, shield and light armour, these archers can also stand their ground in melee.
 {Varangian_Archers_descr}	Qualité : Supérieure.\nType : Local (manque d'entraînement, faible discipline et moral bas).\n\nThe Rus', dominated as it was by forest, river and marsh land, relied heavily upon infantry. Rus' infantry made extensive use of archery. Their bows and arrowtips had influences from the Romans, other Eastern European nations, but most notably the Scandinavians. These hardy archers use large semi-composite bows covered in birch bark, creating a powerful weapon. An army of these men and the shower of hell they bring with them will leave all but the most noble men to confront them.
 {Varangian_Archers}	Varangian Archers
-{Varangian_Guard_descr_short}	Les membres de la garde varègue manient superbement la hache à deux mains et sont protégés par une armure lourde.
-{Varangian_Guard_descr}	Qualité : Exceptionnelle.\nType : Professionnel de première période.\n\nCette unité, la plus célèbre des troupes byzantines, est composée exclusivement de Scandinaves et d'Anglais. A l'origine, unité de conscrits envoyée à l'empereur de Byzance par les Rus, elle est devenue permanente et est souvent utilisée comme garde royale. Ces guerriers très habiles manient des haches à deux mains avec une ardeur extraordinaire, taillant en pièces les ennemis de l'empereur.
-{Varangian_Guard}	Garde varègue
 {Varangian_Spearmen_descr_short}	Varangian levy units to defend settlements and bolster armies, armed with long spears and big shields.
 {Varangian_Spearmen_descr}	Qualité : Milice.\nType : Local (manque d'entraînement, faible discipline et moral bas).\n\nInfantrymen or peshtsi, were used for the defense of walls and gates, to cover the rear of the cavlary, and for many other civic jobs. The Rus' realized the need for a solid, well equipped infantry unit as the influence from the Germanic military orders grew. These men are frequently levied where presence of norse blood is high. Just as what this unit was created for, the Varangian Spearmen are best kept on a defensive role.
 {Varangian_Spearmen}	Varangian Spearmen
@@ -1892,6 +1883,9 @@
 {Mounted_Acritae}	Mounted Acritae
 {Mounted_Acritae_descr}	(Ακρίται).\n\nQualité : Moyenne.\nType : Professionnel de première période.\n\nTheir name is derived from “acri”, meaning border. Acritae served as the border guards of the Empire and despite being ”thematical” (i.e. provincial) troops, they were paid as professionals as well as given land to tend (known as "economiae"). Acritae were some of the most common troops throughout the Empire and were usually armed with heavy javelins(martiuvarbulus),swords and padded or chain mail armour. Some Acritae were also formed as mounted units for increased mobility on the battlefield.
 {Mounted_Acritae_descr_short}	Professional mounted troops armed with javelins and a sword.
+¬{Alamanoi_descr_short}	Mercenaries from northern-central Europe, in the employ of the Roman Army, equipped with zweihanders and mail armour.
+¬{Alamanoi_descr}	Quality: Superior.\nType: Early Professional.\n\nThere are two types of mercenaries in the Roman army. Most common are the irregular mercenaries hired for specific periods or campaigns, and secondly are those that are kept on full time. The Alamanoi belong to the former and are made up of Germans and Flemings. Hailing from Northern central Europe, it is not surprising to see these warriors armed with mighty Zweihanders.
+¬{Alamanoi}	Alamanoi
 {Alamanoi_descr_short}	Mercenaires d'Europe centrale du Nord, employés par l'Empire byzantin, équipés de zweirhänders et d'une armure.
 {Alamanoi_descr}	Qualité : Supérieure.\nType : Professionnel de première période.\n\nIl existe deux types de mercenaires dans l'armée byzantine. Les plus communs sont les mercenaires irréguliers recrutés pour des campagnes ou des périodes spécifiques. Les Alamans quant à eux, de nationalités allemandes et flamandes, sont engagés à plein temps. Originaires d'Europe centrale du Nord, il n'est pas surprenant de voir ces troupes armées de puissants zweihänders.
 {Alamanoi}	Alamans
@@ -1901,9 +1895,12 @@
 {Archontopoulai_descr_short}	Heavy cavalry drawn from the sons of officers. Equipped with heavy armour, shield, lance and a sword.
 {Archontopoulai_descr}	(Αρχοντόπουλαί).\n\nQualité : Milice (Fanatic).\nType : Professionnel urbain\n\nAfter the recent loss of the Empire’s provinces in Asia Minor, the Komneneans faced a serious lack of heavy cavalry. To remedy this problem, the Empire begun to recruit the underage sons of officers and nobles (often younger than 19 years of age). Although inexperienced, they were known for their religious zeal in battle, typified by the large metal cruxifixes that hung around their necks.
 {Archontopoulai}	Archontopoulai
-{Greek_Bodyguard_descr_short}	Well armed and equipped these elite troops have the task of guarding and fighting alongside the army's general.
-{Greek_Bodyguard_descr}	(Αθάνατοι).\n\nQualité : Exceptionnelle.\n\nPart of the Spartharii tou Vasileos, the Athanatoi were charged with escorting and protecting the Emperor, his family members as well as the Emperor’s most trusted or valuable generals. Their name means “immortals”, because their numbers always stayed the same. As soon as one of their number fell in battle, another soldier was transferred from another unit to take his place. Athanatoi are the best of the best of all the Empire's troops.
-{Greek_Bodyguard}	Athanatoi (Bodyguard)
+¬{Greek_Bodyguard_descr_short}	Well armed and equipped these elite troops have the task of guarding and fighting alongside the army's general.
+¬{Greek_Bodyguard_descr}	(Αθάνατοι).\n\nQualité : Exceptionnelle.\n\nPart of the Spartharii tou Vasileos, the Athanatoi were charged with escorting and protecting the Emperor, his family members as well as the Emperor’s most trusted or valuable generals. Their name means “immortals”, because their numbers always stayed the same. As soon as one of their number fell in battle, another soldier was transferred from another unit to take his place. Athanatoi are the best of the best of all the Empire's troops.
+¬{Greek_Bodyguard}	Athanatoi (Bodyguard)
+{Greek_Bodyguard_descr_short}	Bien armée et équipée, cette unité d'élite est chargée de protéger le général de l'armée et de combattre à ses côtés.
+{Greek_Bodyguard_descr}	Qualité : Exceptionnelle.\n\nCette redoutable troupe protège le général et l'accompagne sur le champ de bataille. Ses membres sont choisis pour leurs faits d'armes et leur loyauté. Equipés d'une lance et d'une armure de mailles renforcées, voire en partie de plates, ces guerriers survivent à nombre de situations périlleuses pour d'autres unités. Les charges dévastatrices de cette unité déstabilisent presque tout ennemi.
+{Greek_Bodyguard}	Garde du corps du général
 {Castrophilakae}	Castrophilakae
 {Castrophilakae_descr_short}	Infantry armed with heavy armour, sword and wooden shield.
 {Castrophilakae_descr}	(Καστροφύλακαι).\n\nQualité : Supérieure.\nType : Professionnel de période avancée (entraînement plus long basé sur le type d'unité et la qualité, plus grande proportion d'unités disciplinées) .\n\nEvery Strategos (provincial ruler) had the responsibility dictated by the military laws of the Empire to recruit a unit of professional troops in order to guard the border fortifications and to enforce the law in the province. Their name comes from the greek word κάστρα, a generic name for fortifications. As professional troops they could afford better quality, heavier armour. Usually armed with a sword and a round wooden shield.
@@ -1949,9 +1946,12 @@
 {Toxotae}	Toxotae
 {Toxotae_descr_short}	Archer militia armed with bows, hand axes and a small buckler.
 {Toxotae_descr}	(Τοξόται).\n\nQualité : Milice.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nAccording to the standard military manuals of the time, each provincial ruler in the Empire had to keep a certain number of militia armed as archers to defend the province’s cities. As they are merely peasants, they are not armed with more powerful composite bows, so the damage they can inflict is limited compared to other archers in the Empire’s armies. In order to improve their survivability on the battlefield, some local rulers provide padded armour to their Toxotae, in addition to the standard bow, hand axe and small buckler.
-{Varangian_Guard_descr_short}	The Varangian guard are superb two-handed axemen, protected by heavy armour.
-{Varangian_Guard_descr}	Qualité : Elite.\nType : Mercenaire (entretien élevé).\n\nThe most famous of all Byzantine units, made up wholly of Scandinavians and Englishmen, The Varangian guard were initially a military levy sent to the Byzantine emperor from the 'Rus' which are now a permanent unit often used as royal bodyguards. These superbly skilled warriors wield two-handed axes with vicious abandon, hacking down the Emperor's enemies.
-{Varangian_Guard}	Varangian Guard
+¬{Varangian_Guard_descr_short}	The Varangian guard are superb two-handed axemen, protected by heavy armour.
+¬{Varangian_Guard_descr}	Qualité : Elite.\nType : Mercenaire (entretien élevé).\n\nThe most famous of all Byzantine units, made up wholly of Scandinavians and Englishmen, The Varangian guard were initially a military levy sent to the Byzantine emperor from the 'Rus' which are now a permanent unit often used as royal bodyguards. These superbly skilled warriors wield two-handed axes with vicious abandon, hacking down the Emperor's enemies.
+¬{Varangian_Guard}	Varangian Guard
+{Varangian_Guard_descr_short}	Les membres de la garde varègue manient superbement la hache à deux mains et sont protégés par une armure lourde.
+{Varangian_Guard_descr}	Qualité : Exceptionnelle.\nType : Professionnel de première période.\n\nCette unité, la plus célèbre des troupes byzantines, est composée exclusivement de Scandinaves et d'Anglais. A l'origine, unité de conscrits envoyée à l'empereur de Byzance par les Rus, elle est devenue permanente et est souvent utilisée comme garde royale. Ces guerriers très habiles manient des haches à deux mains avec une ardeur extraordinaire, taillant en pièces les ennemis de l'empereur.
+{Varangian_Guard}	Garde varègue
 {Skythikoi}	Skythikon
 {Skythikoi_descr_short}	Mounted horse archers armed with powerful composite bows.
 {Skythikoi_descr}	(Σκυθικόν).\n\nQualité : Supérieure.\nType : Mercenaire (entretien élevé, moral et discipline souvent légèrement réduits).\n\nMedieval Romans called all warriors that came from the steppe “Skythae”. The lack of experienced mounted archers forced the Empire to hire large numbers of these warriors to counter the superior mounted archery skills of it’s enemies. These warriors came from numerous steppe tribes including Pechenegs, Cumans and Turkomans. Skythikoi were paid either by annual payments known as rogae, or they were given a proportion of all spoils won in battle. 

@@ -15,8 +15,7 @@ Tout élément déjà traduit se révélant ne pas être présent dans l'équiva
 ================================================================================================
 
 
-forme à vérifier : 
-- export_units
+structure à vérifier : 
 - export_vnvs
 - factionintrosubtitles
 - historic_events
@@ -47,6 +46,7 @@ contenu à vérifier :
 - expanded
 - export_ancillaries
 - export_buildings
+- export_units
 
 
 ================================================================================================
@@ -54,4 +54,4 @@ contenu à vérifier :
 ================================================================================================
 
 
-Achille44 : export_units ligne 50
+Achille44 : export_vnvs
