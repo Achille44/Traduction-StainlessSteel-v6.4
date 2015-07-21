@@ -16,11 +16,6 @@ Tout élément déjà traduit se révélant ne pas être présent dans l'équiva
 
 
 structure à vérifier : 
-- export_vnvs
-- factionintrosubtitles
-- historic_events
-- imperial_campaign_regions_and_settlement_names
-- menu_english
 - missions
 - names
 - quotes
@@ -47,6 +42,11 @@ contenu à vérifier :
 - export_ancillaries
 - export_buildings
 - export_units
+- export_vnvs
+- factionintrosubtitles
+- historic_events
+- imperial_campaign_regions_and_settlement_names
+- menu_english
 
 
 ================================================================================================
@@ -54,4 +54,4 @@ contenu à vérifier :
 ================================================================================================
 
 
-Achille44 : export_vnvs ligne 1346
+Achille44 : missions ligne 94

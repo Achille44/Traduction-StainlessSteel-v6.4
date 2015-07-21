@@ -1,0 +1,48 @@
+{PRINCESS_ARAGON_BODY}Mon seigneur, je vous informe qu'une princesse d'Aragon est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_ARAGON_TITLE}Une Princesse Aragonnaise est parvenue à Maturité !
+{PRINCESS_BYZANTIUM_BODY}Mon seigneur, je vous informe qu'une princesse de l'Empire Byzantin est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_BYZANTIUM_TITLE}Une Princesse Byzantine est parvenue à Maturité !
+{PRINCESS_DENMARK_BODY}Mon seigneur, je vous informe qu'une princesse du Danemark est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_DENMARK_TITLE}Une Princesse Danoise est parvenue à Maturité !
+{PRINCESS_EGYPT_BODY}Mon seigneur, je vous informe qu'une princesse du Royaume Egyptien est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_EGYPT_TITLE}Une Princesse Egyptienne est parvenue à Maturité !
+{PRINCESS_ENGLAND_BODY}Mon seigneur, je vous informe qu'une princesse de l'Angleterre est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_ENGLAND_TITLE}Une Princesse Anglaise est parvenue à Maturité !
+{PRINCESS_FRANCE_BODY}Mon seigneur, je vous informe qu'une princesse de la France est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_FRANCE_TITLE}Une Princesse Française est parvenue à Maturité !
+{PRINCESS_HRE_BODY}Mon seigneur, je vous informe qu'une princesse du Saint Empire Romain Germanique est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_HRE_TITLE}Une Princesse Germaine est parvenue à Maturité !
+{PRINCESS_HUNGARY_BODY}Mon seigneur, je vous informe qu'une princesse de Hongrie est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_HUNGARY_TITLE}Une Princesse Hongroise est parvenue à Maturité !
+{PRINCESS_KIEVAN_RUS_BODY}Mon seigneur, je vous informe qu'une princesse des Rus' de Kiev est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_KIEVAN_RUS_TITLE}Une Princesse Russe de Kiev est parvenue à Maturité !
+{PRINCESS_LOCAL_BODY}Cette dame de la cour est maintenant en âge d'être une jeune mariée potentielle. Elle parcourt  l’Europe pour répondre à vos fins politiques, ou pour montrer qu’elle est à courtiser par vos alliés. Elle ne protestera pas, mon seigneur. 
+{PRINCESS_LOCAL_TITLE}Une Princesse est parvenue à Maturité !
+{PRINCESS_MILAN_BODY}Mon seigneur, je vous informe qu'une princesse de Gênes est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_MILAN_TITLE}Une Princesse Génoise est parvenue à Maturité !
+{PRINCESS_MOORS_BODY}Mon seigneur, je vous informe qu'une princesse du Royaume Maure est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_MOORS_TITLE}Une Princesse Maure est parvenue à Maturité !
+{PRINCESS_NORWAY_BODY}Mon seigneur, je vous informe qu'une princesse de Norvège est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_NORWAY_TITLE}Une Princesse Norvégienne est parvenue à maturité !
+{PRINCESS_POLAND_BODY}Mon seigneur, je vous informe qu'une princesse de Pologne est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_POLAND_TITLE}Une Princesse Polonaise est parvenue à Maturité !
+{PRINCESS_PORTUGAL_BODY}Mon seigneur, je vous informe qu'une princesse du Portugal est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_PORTUGAL_TITLE}Une Princesse Portugaise est parvenue à Maturité !
+{PRINCESS_RUSSIA_BODY}Mon seigneur, je vous informe qu'une princesse de Russie est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_RUSSIA_TITLE}Une Princesse Russe est parvenue à Maturité !
+{PRINCESS_SCOTLAND_BODY}Mon seigneur, je vous informe qu'une princesse d'Ecosse est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_SCOTLAND_TITLE}Une Princesse Ecossaise est parvenue à Maturité !
+{PRINCESS_JERUSALEM_BODY}Mon seigneur, je vous informe qu'une princesse de Jérusalem est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_JERUSALEM_TITLE}A Jerusalemite Princess Comes of Age!	
+{PRINCESS_SICILY_BODY}Mon seigneur, je vous informe qu'une princesse de Sicile est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_SICILY_TITLE}Une Princesse Sicilienne est parvenue à Maturité !
+{PRINCESS_SPAIN_BODY}Mon seigneur, je vous informe qu'une princesse de l'Espagne est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_SPAIN_TITLE}Une Princesse Espagnole est parvenue à Maturité !
+{PRINCESS_TURKS_BODY}Mon seigneur, je vous informe qu'une princesse du Royaume Turc est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_TURKS_TITLE}Une Princesse Turque est parvenue à Maturité !
+{PRINCESS_VENICE_BODY}Mon seigneur, je vous informe qu'une princesse de Venise est parvenue à maturité. À moins que son père n'ait l'intention de la donner en épouse au premier noble venu, elle reste disponible pour établir une alliance politique entre nos deux peuples.
+{PRINCESS_VENICE_TITLE}Une Princesse Vénitienne est parvenue à Maturité !
+{ADDITIONAL_SCRIPTS_TITLE}Additional Features
+{ADDITIONAL_SCRIPTS_BODY}Additional scripts used in this campaign:\nGracul AI.\n\nChanging campaign features mid-game is (mostly) dangerous and will cause crashes!\n\nYou can always invoke a list with your campaign features by pressing SCROLL LOCK.
+{AIGRACUL_BODY}Gracul's AI, known for its aggressive style and constant backstabs when your faction is weak. You can actually lose to the AI!\nThe play-style of the computer resembles my own - expand and kill the weak even if it's your ally.\nThe computer will also create a lot of alliance blocks, and the world is at constant TOTAL WAR!\nAlly holding only works if your actually a lot stronger than your allies.\n\nSummary:\nAggressiveness - 10/10\nBackstabs - 10/10\nAlly holding - 2/10\nConstant war state.\n
+{AIGRACUL_TITLE}Gracul AI
