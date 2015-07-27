@@ -1,0 +1,5 @@
+{MAJOR_EXPLORERS_GUILD_POINTS_PENALTY_DESCR}Vous avez grandement déçu la guilde des explorateurs.
+{MAJOR_EXPLORERS_GUILD_POINTS_PENALTY_PRE_DESCR}Vous allez grandement décevoir la guilde des explorateurs.
+{MAJOR_EXPLORERS_GUILD_POINTS_REWARD_DESCR}Vous avez grandement satisfait la guilde des explorateurs.
+{MAJOR_EXPLORERS_GUILD_POINTS_REWARD_PRE_DESCR}Vous allez grandement satisfaire la guilde des explorateurs.
+Vous avez déçu Sa Sainteté en ne lui délivrant pas cette relique et en la conservant pour vous.

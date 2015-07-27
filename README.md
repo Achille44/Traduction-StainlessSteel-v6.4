@@ -15,20 +15,10 @@ Tout élément déjà traduit se révélant ne pas être présent dans l'équiva
 ================================================================================================
 
 
-structure à vérifier : 
-- missions
-- names
-- quotes
-- rebel_faction_descr
-- religions
-- shared
-- strat
-- tooltips
-
-
 contenu à traduire : 
 - export_units
 - export_vnvs
+- historic_events
 
 
 contenu à vérifier : 
@@ -54,4 +44,4 @@ contenu à vérifier :
 ================================================================================================
 
 
-Achille44 : missions ligne 94
+Achille44 : traduction de imperial_cmapaign... ligne 222
