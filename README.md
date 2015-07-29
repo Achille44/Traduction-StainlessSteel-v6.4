@@ -44,4 +44,4 @@ contenu à vérifier :
 ================================================================================================
 
 
-Achille44 : traduction de imperial_cmapaign... ligne 222
+Achille44 : traduction de export_units
