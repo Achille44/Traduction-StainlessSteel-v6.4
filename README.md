@@ -18,7 +18,6 @@ Tout élément déjà traduit se révélant ne pas être présent dans l'équiva
 contenu à traduire : 
 - export_units
 - export_vnvs
-- historic_events
 
 
 contenu à vérifier : 
