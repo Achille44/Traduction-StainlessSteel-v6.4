@@ -7,7 +7,7 @@ Tout élément déjà traduit se révélant ne pas être présent dans l'équiva
 - Le dossier SSOriginal contient les fichiers text présents de base dans SS6.3\data\text, ainsi que les fichiers compris dans la BugFix_Compilation_v1.27 (http://www.twcenter.net/forums/showthread.php?640913-Bug-Fixes-for-SS6-4-DO-NOT-POST-ANY-BUGS-IN-HERE&p=13723098&viewfull=1#post13723098).
 - le dossier VanillaFrench contient des fichiers text de la version française de Medieval II Vanilla, ainsi que des extensions.
 - le dossier SSEnglish contient les fichiers text présents dans TraductionPourlaversion6.4V2 (pas fiable)
-- le dossier SSSpanish contient les fichiers text à traduire en français
+- le dossier SSFrench contient les fichiers text à traduire en français
 
 
 ================================================================================================
@@ -43,4 +43,4 @@ contenu à vérifier :
 ================================================================================================
 
 
-Achille44 : traduction de export_units
+Achille44 : traduction de export_units ligne 33
