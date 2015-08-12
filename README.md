@@ -43,4 +43,5 @@ contenu à vérifier :
 ================================================================================================
 
 
-Achille44 : traduction de export_units ligne 104
+Achille44 : traduction de export_units ligne 137
+			traduction de export_vnvs ligne 1414

@@ -98,12 +98,12 @@
 {Aventurier_descr_short}	Troupes habiles armées d'une arbalète et d'une épée, et vêtues d'une armure de plates.
 {Aventurier_descr}	Qualité : Elite.\nType : Professionnel de première période.\n\nLa France a fait appel à ces hommes pour se protéger des invasions étrangères. Ce sont des nobles rompus à l'utilisation de nombreuses armes, dont l'arbalète et l'épée, et portant une solide armure de plates. D'abord utilisés comme unités de tir, les aventuriers ont une telle maîtrise de l'épée qu'ils peuvent être utilisés comme troupes de choc si le besoin s'en fait sentir.
 {Aventurier}	Aventuriers
-{Aventuros_descr_short}	Impetuous and hot blooded gentry, armed with pikes and excellent armour, this elite unit is one of the best pike units available.
+{Aventuros_descr_short}Nobles impétueux et ardents, équipés de piques et d'une excellente armure. Ils forment l'une des meilleures unités de piquiers disponibles.
 {Aventuros_descr}	Qualité : Supérieure.\nType : Professionnel de première période.\n\nCes unités réunissent la noblesse aventurière, avide de voir le monde et de combattre. En mesure de se payer un bon équipement, ces troupes d'élite sont armées de piques et d'une bonne armure de mailles ou de plates. Malgré leur entraînement poussé, ces nobles impétueux sont parfois téméraires, chacun voulant montrer sa bravoure.
 {Aventuros}	Aventuros
-{Axemen_descr_short}	Drawn from the Wealthier elements of the lower class these men are equipped in mail armor and carry large axes.
-{Axemen_descr}	Qualité : Moyenne.\nType : Mercenaire (entretien élevé, moral et discipline souvent légèrement réduits).\n\nThese warriors drawn from wealthier households of merchants, artisans, and smiths. They are able to afford the vastly improved protection of light mailed armor and choose to fight with a heavy two handed axe. They make good offensive infantry but should not be relied on to hold a line.
-{Axemen}	Axemen
+{Axemen_descr_short}	Tirés des éléments les plus aisés de la classe inférieure, ces hommes sont équippés d'une cotte de mailles et portent une grande hache.
+{Axemen_descr}	Qualité : Moyenne.\nType : Mercenaire (entretien élevé, moral et discipline souvent légèrement réduits).\n\nCes guerriers proviennnent des foyers les plus aisés parmi les marchands, les artisans et les forgerons. Ils peuvent se payer la protection améliorée d'une cotte de mailles légère et ont choisi de se battre avec une hache à deux mains. Ils forment une bonne infanterie offensive mais ne devraient être utilisés pour tenir la ligne.
+{Axemen}	Porteurs de hache
 {Azabs_descr_short}	Troupes légères mal armées, on attend d'elles qu'elles gardent les ponts et les routes et soutiennent les troupes plus lourdes.
 {Azabs_descr}	Qualité : Milice paysanne.\nType : Rural enrôlé (manque d'entraînement, moral et discipline bas).\n\nEn temps de guerre, chaque ville et village doit fournir un certain nombre de combattants entièrement équipés, les "azabs", c'est-à-dire les célibataires. Troupes légères mal armées, elles gardent les ponts et les routes et soutiennent les troupes plus lourdes.
 {Azabs}	Azabs
