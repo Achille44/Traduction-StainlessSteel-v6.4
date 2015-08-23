@@ -17,7 +17,6 @@ Tout élément déjà traduit se révélant ne pas être présent dans l'équiva
 
 contenu à traduire : 
 - export_units
-- export_vnvs
 
 
 contenu à vérifier : 
@@ -43,4 +42,4 @@ contenu à vérifier :
 ================================================================================================
 
 
-Achille44 : traduction de export_units ligne 431
+Achille44 : traduction de export_units ligne 746
