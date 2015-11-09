@@ -1964,18 +1964,18 @@
 {Spanish_Arquebusiers_descr_short}	Cette unité bien entraînée est capable de fournir un tir en salve avec sa version améliorée de l'arquebuse, puis de combattre à l'apée.
 {Spanish_Arquebusiers_descr}	Qualité : Supérieure.\nType : Professionnel urbain (entraînement plus long basé sur le type d'unité et la qualité, plus grande proportion d'unités disciplinées).\n\nProfitant de l'amélioration de la poudre pouvant générer une vitesse initiale supérieure, cette version de l'arquebuse est capable d'infliger des dégâts considérables et de provoquer la panique lorsqu'utilisée à bout portant, et peut pénétrer presque n'importe quelle armure. Cette arme bruyante, mortelle et dégageant beaucoup de fumée, est tellement intimidante qu'elle peut faire fuir de panique ses cibles.
 {Spanish_Arquebusiers}	Arquebusiers espagnols
-{Templar_Longbowmen}	Templar Longbowmen
-{Templar_Longbowmen_descr}	Qualité : Supérieure.\nType : Professionnel de première période.\n\nRecruited from the British Isles, these men make a very useful addition to the Templar and Crusader armies which lack the quality ranged units of their Muslim neighbours. A quality longbowmen takes years to train but seeing their bodkin arrows fill the battlefield sky makes the work worth it.
-{Templar_Longbowmen_descr_short}	Superior long range unit with poor melee skills.
+{Templar_Longbowmen}	Archers longs du Temple
+{Templar_Longbowmen_descr}	Qualité : Supérieure.\nType : Professionnel de première période.\n\nRecrutés sur les îles britanniques, ces hommes représentent un atout précieux pour les Templiers et les armées croisées qui manquent d'unités de tir de qualité comme celles de leurs voisins musulmans. Des archers longs de qualité prennent des années à se former, mais voir leurs flèches pointues remplir le ciel du champ de bataille rend cet investissement rentable.
+{Templar_Longbowmen_descr_short}	Unité de tir supérieure avec de faibles compétences en mêlée.
 {Syrian_Auxilliaries}	Milice syrienne
 {Syrian_Auxilliaries_descr}	Qualité : Milice.\nType : Local (manque d'entraînement, faible discipline et moral bas).\n\nLa milice syrienne se compose de Syriens chrétiens autochtones qui sont engagés comme mercenaires. Ils sont grandement utilisés dans les troupes de garnison. Mal entraînées, ces troupes légères opèrent dans tous les états croisés.
 {Syrian_Auxilliaries_descr_short}	Milice locale armée d'un hache grossière.
 {Norman_Cavalry}	Miles
-{Norman_Cavalry_descr}	Qualité : Supérieure.\nType : Féodal (faible disponibilité, entretien nul dans les châteaux, souvent impétueux ou indisciplinés).\n\nThese men combine the traditions of the warrior culture of their viking ancestors and the heavy cavalry of their Frankish neighbours. These young men are the elite of Norman society, and follow their lord wherever he leads. They can be found across northern Europe, southern Italy and Sicily and even in the holy lands.
-{Norman_Cavalry_descr_short}	Medium horse armoured in chain mail and carrying a lance and sword.
-{Norman_Serjeants}	Norman Serjeants
-{Norman_Serjeants_descr}	Qualité : Moyenne.\nType : Professionnel de première période.\n\nWhile the hallmark of the Normans is their heavy cavalry, Spearmen provide the backbone of thier armies. These serjeants are steady men, covered in chain mail and are especially handy against cavalry.
-{Norman_Serjeants_descr_short}	Medium spearmen covered in mail and able to hold a line.
+{Norman_Cavalry_descr}	Qualité : Supérieure.\nType : Féodal (faible disponibilité, entretien nul dans les châteaux, souvent impétueux ou indisciplinés).\n\nCes hommes combinent les traditions de la culture guerrière de leurs ancêtres vikings et la cavalerie lourde de leurs voisins francs. Ces jeunes hommes sont l'élite de la société normande, et suivent leur seigneur où qu'il aille. On peut les trouver en Europe du Nord, au Sud de l'Italie et en Sicile, et même en Terre Sainte.
+{Norman_Cavalry_descr_short}	Cavaliers moyens protégés par une cotte de mailles et portant une lance et une épée.
+{Norman_Serjeants}	Sergents normands
+{Norman_Serjeants_descr}	Qualité : Moyenne.\nType : Professionnel de première période.\n\nAlors que la caractéristique principale des normands soit leur cavalerie lourde, les vougiers fournissent l'épine dorsale de leurs armées. Ces sergents sont des hommes solides, couverts d'une cotte de mailles et sont particulièrement bons contre la cavalerie.
+{Norman_Serjeants_descr_short}	Vougiers moyens couverts d'une cotte de mailles et capables de tenir la ligne.
 {Dismounted_Norman_Cavalry}	Miles Pedites
 {Dismounted_Norman_Cavalry_descr}	Qualité : Supérieure.\nType : Féodal (faible disponibilité, entretien nul dans les châteaux, souvent impétueux ou indisciplinés).\n\nThese men are normally mounted but fight on foot for a number of reasons. The presence of these heavy swordsmen stiffens any battle line. As well, given the variety of terrain that the Normans fight on, a horse is not always an option. Covered in chain mail, they are well able to be the backbone of the foot section of Norman armies.
 {Dismounted_Norman_Cavalry_descr_short}	Strong swordsmen armed with a quality sword and coverd in chain mail.
