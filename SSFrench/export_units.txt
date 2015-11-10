@@ -1977,26 +1977,26 @@
 {Norman_Serjeants_descr}	Qualité : Moyenne.\nType : Professionnel de première période.\n\nAlors que la caractéristique principale des normands soit leur cavalerie lourde, les vougiers fournissent l'épine dorsale de leurs armées. Ces sergents sont des hommes solides, couverts d'une cotte de mailles et sont particulièrement bons contre la cavalerie.
 {Norman_Serjeants_descr_short}	Vougiers moyens couverts d'une cotte de mailles et capables de tenir la ligne.
 {Dismounted_Norman_Cavalry}	Miles Pedites
-{Dismounted_Norman_Cavalry_descr}	Qualité : Supérieure.\nType : Féodal (faible disponibilité, entretien nul dans les châteaux, souvent impétueux ou indisciplinés).\n\nThese men are normally mounted but fight on foot for a number of reasons. The presence of these heavy swordsmen stiffens any battle line. As well, given the variety of terrain that the Normans fight on, a horse is not always an option. Covered in chain mail, they are well able to be the backbone of the foot section of Norman armies.
-{Dismounted_Norman_Cavalry_descr_short}	Strong swordsmen armed with a quality sword and coverd in chain mail.
-{Norman_Archers}	Norman Archers
-{Norman_Archers_descr}	Part of the reason for the success of the Norman invasion of England was the variety of forces they could throw against the infantry-heavy Saxons. These continental archers played an important role in the fight, as Harold Godwinson was killed by a Norman arrow in the eye. They continue to serve their lords as a valuable component of the army.
-{Norman_Archers_descr_short}	Armoured archers, good defense but armed with short bows and average attack.
-{Norman_Crossbowmen}	Flemish Crossbowmen
-{Norman_Crossbowmen_descr}	The Normans are nothing if not adaptive. Following the lead of their contintental neighbours and foes, the Normans employ crossbowmen in their armies. The crossbow is a relatively new weapon in Northern Europe and the Normans employ these professionals from Flanders, rather than training their own. The crossbow would end up following the Normans around Europe and the mediterranean world.
-{Norman_Crossbowmen_descr_short}	Average crossbowmen, with good stopping power and armour piercing ability.
-{Militia_Serjeants}	Militia Serjeants
-{Militia_Serjeants_descr}	Qualité : Milice.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nMilitia formations are supplied by the people of growing towns, drawn from amongst the apprentices. Armed with fearsome polearms, they can do significant damage to enemies, but their training is not always of the highest. They can do well against lesser troops, but will quail before more professional soldiery.
-{Militia_Serjeants_descr_short}	Polearmed militia quality units.
-{NE_Urban_Militia}	Milice urbaines
-{NE_Urban_Militia_descr}	Qualité : Milice paysanne.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nAs cities and trade grow, so does the need for local defence. Some towns and cities can provide a locally raised force, recruited from among apprentices and journeymen. While they only have limited training, their polearms give them an advantage against armoured troops, and they are more disciplined than peasantry.
-{NE_Urban_Militia_descr_short}	Two-handed axe armed townspeople
-{Squires}	Squires
-{Squires_descr}	Squires are young man of 13 or 14 who aspired to the rank of knighthood. Drawn from the noble families around a Lord's castle, these young men spend time carrying equipment and tending to a knights horse. Once they reach age, these squires, if from good families and of martial ability, may be knighted by their lord. 
-{Squires_descr_short}	Young men, knights in training with maces and sheilds.
-{Breton_Light_Cavalry}	Breton Light Cavalry
-{Breton_Light_Cavalry_descr}	Qualité : Moyenne.\nType : Mercenaire (entretien élevé, moral et discipline souvent légèrement réduits).\n\nAlthough largely a French vassal, the Bretons remained semi-independent for much of the middle ages by transferring loyalties between the Normans, English and French depending on the situation. These men fight much as their Celtic ancestors would have-as javelin armed light cavalry. However, they have learned a few things from thier Frankish neighbours and they can also engage with spears once their javelins are exhausted.
-{Breton_Light_Cavalry_descr_short}	Mobile javelin and spear armed cavalry
+{Dismounted_Norman_Cavalry_descr}	Qualité : Supérieure.\nType : Féodal (faible disponibilité, entretien nul dans les châteaux, souvent impétueux ou indisciplinés).\n\nCes hommes sont normalement à cheval mais combattent à pied pour nombre de raisons. La présence des ces épéistes lourds renforce n'importe quelle ligne de bataille. De plus, au vu de la variété des terrains sur lesquels les Normands se battent, un cheval n'est pas toujours une option. Couverts d'une cotte de mailles, ils peuvent former l'ossature des fantassins des armées normandes.
+{Dismounted_Norman_Cavalry_descr_short}	Puissants épéistes armés d'une épée de qualité et couverts d'une cotte de mailles.
+{Norman_Archers}	Archers normands
+{Norman_Archers_descr}	Une des clés du succès de l'invasion normande en Angleterre était la variété des forces qu'ils pouvaient lancer contre l'infanterie lourde saxone. Ces archers continentaux jouèrent un rôle important au combat, Harold Godwinson fut d'ailleurs tué par une flèche nomrande dans l'oeil. Ils continuent de servir leurs seigneurs, constituant un élément précieux dans l'armée.
+{Norman_Archers_descr_short}	Archers bien protégés mais armés d'arcs courts et d'une attaque moyenne.
+{Norman_Crossbowmen}	Arbalétriers flamands
+{Norman_Crossbowmen_descr}	Les Normands ne sont rien sans leur adaptabilité. Suivant l'enseignement de leurs voisins et ennemis continentaux, les Normands emploient des arbalétriers dans leurs armées. L'arbalète est une arme relativement nouvelle en Europe du Nord et les Normands emploient ces professionnels de Flandres, plutôt que d'en entraîner eux-mêmes. L'arbalète pourrait bien suivre les Normands à travers l'Europe et le monde méditerranéen.
+{Norman_Crossbowmen_descr_short}	Arbalétriers moyens, avec un bon pouvoir d'arrêt et une bonne pénétration d'armure.
+{Militia_Serjeants}	Milice de sergents
+{Militia_Serjeants_descr}	Qualité : Milice.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nLes formations de milice sont fournies par la population des villes croissantes, tirées parmi les apprentis. Armés de terrifiantes armes d'hast, ils peuvent infligeant des dégâts significatifs aux ennemis, mais leur entraînement n'est pas toujours au plus haut. Ils se débrouillent face aux unités plus faibles, mais ils trembleront devant des soldats plus professionnels.
+{Militia_Serjeants_descr_short}	Unité de milice de qualité équipée d'armes d'hast.
+{NE_Urban_Militia}	Milice urbaine
+{NE_Urban_Militia_descr}	Qualité : Milice paysanne.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nL'accroissement des villes et du commerce accroit la nécessité d'une défense locale. Certaines villes et cités peuvent fournir une levée locale, recrutée parmi les apprentis et les compagnons. Bien qu'ils naient qu'un entraînement limité, leurs armes d'hast leurs donnent un avantage face aux troupes en armure, et ils sont plus disciplinés que les paysans.
+{NE_Urban_Militia_descr_short}	Citadins armés d'une hace à deux mains.
+{Squires}	Ecuyers
+{Squires_descr}	Les écuyers sont de jeunes hommes de 13 ou 14 ans qui aspirent au rang de chevalier. Issus de familles nobles autour d'un château de seigneur, ces jeunes hommes passent plus de temps à porter l'équipement et à s'occuper du cheval d'un chevalier.
+{Squires_descr_short}	Jeunes hommes, chevaliers en entraînement équipés de masses et de boucliers.
+{Breton_Light_Cavalry}	Cavalerie légère bretonne
+{Breton_Light_Cavalry_descr}	Qualité : Moyenne.\nType : Mercenaire (entretien élevé, moral et discipline souvent légèrement réduits).\n\nBien qu'en grande partie vassaux français, les Bretons restèrent semi-indépendants pendant une bonne partie du Moyen Age, changeant d'allégeance entre les Normands, les Anglais et les Français, suivant la situation. Ces hommes combattent plus commes leurs ancêtres celtes l'auraient fait - comme cavalerie légère armée de javelots. Cependant, ils ont appris certaines choses de leurs voisins francs et ils peuvent aussi engager avec des lances une fois leurs javelots épuisés.
+{Breton_Light_Cavalry_descr_short}	Cavalerie mobile équipée de lances et de javelots.
 {Fyrd_Spearmen}	Fyrd Spearmen
 {Fyrd_Spearmen_descr}	Qualité : Milice paysanne.\nType : Rural enrôlé (manque d'entraînement, moral et discipline bas).\n\nAlthough a renmant from Anglo-Saxon days, the new rulers of England have cause to bring the common man to arms as well. With the huscarls, theigns and most of the old aristocracy dead or moved on, these men have little choice but to follow the Norman lords where they command.
 {Fyrd_Spearmen_descr_short}	Vougiers paysans, poor armour but can stand up to light cavalry.
