@@ -1997,32 +1997,32 @@
 {Breton_Light_Cavalry}	Cavalerie légère bretonne
 {Breton_Light_Cavalry_descr}	Qualité : Moyenne.\nType : Mercenaire (entretien élevé, moral et discipline souvent légèrement réduits).\n\nBien qu'en grande partie vassaux français, les Bretons restèrent semi-indépendants pendant une bonne partie du Moyen Age, changeant d'allégeance entre les Normands, les Anglais et les Français, suivant la situation. Ces hommes combattent plus commes leurs ancêtres celtes l'auraient fait - comme cavalerie légère armée de javelots. Cependant, ils ont appris certaines choses de leurs voisins francs et ils peuvent aussi engager avec des lances une fois leurs javelots épuisés.
 {Breton_Light_Cavalry_descr_short}	Cavalerie mobile équipée de lances et de javelots.
-{Fyrd_Spearmen}	Fyrd Spearmen
-{Fyrd_Spearmen_descr}	Qualité : Milice paysanne.\nType : Rural enrôlé (manque d'entraînement, moral et discipline bas).\n\nAlthough a renmant from Anglo-Saxon days, the new rulers of England have cause to bring the common man to arms as well. With the huscarls, theigns and most of the old aristocracy dead or moved on, these men have little choice but to follow the Norman lords where they command.
-{Fyrd_Spearmen_descr_short}	Vougiers paysans, poor armour but can stand up to light cavalry.
-{Drengjar_descr_short}	Viking commoners levied into military service, with only basic equipment.
-{Drengjar_descr}	Qualité : Milice.\nType : Local (manque d'entraînement, faible discipline et moral bas).\n\nViking Drengjar are commoners levied into military service, with only basic equipment. However, according to their fierce viking heritage they can be aggressive on the battlefield and should not be underestimated.
-{Drengjar}	Viking Drengjar
-{Turkish_Ghulams_descr_short}	These slave troops are reliable heavy cavalry, Equiped with heavy mail, lance and a mace.
-{Turkish_Ghulams_descr}	Qualité : Supérieure.\nType : Professionnel de période avancée (entraînement plus long basé sur le type d'unité et la qualité, plus grande proportion d'unités disciplinées).\n\nThe Ghulams are troops largely drawn from captured slaves. Trained and kept at their "master's" expense, Ghulams are given their freedom once they reach a certain standard and are then kept on as their "master's" personal guard. These troops are well trained heavy cavalry, protected by heavy mail and Equiped with a lance and a mace.
-{Turkish_Ghulams}	Turkish Ghulam Cavalry
-{mon_habutu_cav_descr_short}	One of the most numerous mongolian warriors, light horse archers
-{mon_habutu_cav_descr}	Mongolian men care for their herds, hunt and practice archery. They are all, old and young, good archers and all are excellent riders, for they start to ride almost at birth. These common men are loath to fight hand-to-hand, prefering to shoot and kill from a safe distance, picking off the enemy like so much meat. 
+{Fyrd_Spearmen}	Fyrd de vougiers
+{Fyrd_Spearmen_descr}	Qualité : Milice paysanne.\nType : Rural enrôlé (manque d'entraînement, moral et discipline bas).\n\nBien qu'un vestige des jours anglo-saxons, les nouveaux dirigeants de l'Angleterre ont des raisons de faire appel à l'homme commun pour combattre. les huscarls, les theigns et les membres de l'ancienne aristocratie étant morts ou partis,ces hommes n'ont pas d'autre choix que de suivre leurs seigneurs normans là où on leur ordonne. 
+{Fyrd_Spearmen_descr_short}	Vougiers paysans, avec une faible protection mais pouvant faire face à la cavalerie légère.
+{Drengjar_descr_short}	Roturiers vikings appelés au service militaire, avec un équipement basique.
+{Drengjar_descr}	Qualité : Milice.\nType : Local (manque d'entraînement, faible discipline et moral bas).\n\nLes Drengjar vikings sont des roturiers vikings appelés au service militaire, avec un équipement basique. Cependant, leur héritage viking peut les rendre aggressifs sur le champ de bataille et ils ne devraient pas être sous-estimés.
+{Drengjar}	Drengjar viking
+{Turkish_Ghulams_descr_short}	Ces troupes slaves forment une cavalerie lourde fiable, équipée d'une cotte de mailles, d'une lance et d'une masse.
+{Turkish_Ghulams_descr}	Qualité : Supérieure.\nType : Professionnel de période avancée (entraînement plus long basé sur le type d'unité et la qualité, plus grande proportion d'unités disciplinées).\n\nLes Ghulams sont des troupes majoritairement issues de slaves capturés. Entraînés et ravitaillés par les frais de leurs "maîtres", les Ghulams gagnent leur liberté une fois un certain critère atteint, et sont ensuite considérés comme garde personnelle de leur "maître". Ces troupes forment une cavalerie lourde bien entraînée, protégée par une cotte de mailles et équipée d'une lance et d'une masse.
+{Turkish_Ghulams}	Cavalerie Ghulam turque
+{mon_habutu_cav_descr_short}	Archers montés légers, parmi les plus nombreux soldats mongols.
+{mon_habutu_cav_descr}	Les mongols prennent soin de leur troupeau, chassent et tirent à l'arc. Ils sont tous, jeune et vieux, de bons archers et d'excellents cavaliers, du fait qu'ils commencent à monter à cheval presque à la naissance. Ces hommes répugnent à combattre au corps-à-corps, et préfèrent tirer et tuer à distance, chassant l'ennemi comme de la viande.
 {mon_habutu_cav}	Khabutu
-{mon_habutu_inf_descr_short}	Light archers armed with deadly composite bows
-{mon_habutu_inf_descr}	Qualité : Supérieure.\nType : Local.\n\nExperienced and disciplined warriors, they cause the enemy palpable damage with their clouds of iron-tipped arrows. They break the enemy from a distance, but can also fight hand-to-hand, though their light armor is not a very good defence. 
-{mon_habutu_inf}	Dismounted Khabutu Archers
-{mon_horchi_cav_descr_short}	Mounted archers in heavy armor
-{mon_horchi_cav_descr}	Qualité : Elite.\nType : Professionnel de première période.\n\nThe elite of the Khan's bodyguard, these quiver-bearers, elite archers, command respect and distance on field of battle. They sacrifice mobility for heavy armor, but, in exchange, they become fierceome oponents in hand-to-hand fighting as well. 
+{mon_habutu_inf_descr_short}	Archers légers armés avec de redoutables arcs composites
+{mon_habutu_inf_descr}	Qualité : Supérieure.\nType : Local.\n\nGuerriers expérimentés et disciplinés, ils infligent des dégâts palpables à l'ennemi avec leurs nuages de flèches. Ils brisent l'ennemi à distance, mais peuvent aussi combattre au corps-à-corps, bien que leur armure légère ne soit pas une très bonne défense.
+{mon_habutu_inf}	Archers Khabutu à pied
+{mon_horchi_cav_descr_short}	Archers montés en armure lourde
+{mon_horchi_cav_descr}	Qualité : Elite.\nType : Professionnel de première période.\n\nL'élite de la garde du corps du Khan, ces archers d'élite, commandent le respect et la distance sur le champ de bataille. Ils sacrifient la mobilité pour une armure lourde, mais ils deviennent en contre-partie de redoutables adversaires au corps-à-corps.
 {mon_horchi_cav}	Khorchi 
-{mon_horchi_inf_descr_short}	Archers in heavy armor  
-{mon_horchi_inf_descr}	Qualité : Elite.\nType : Professionnel de première période.\n\nThese elite warriors are no less fierceome oponents when dismounted. In heavy armor, armed with mace and bow, their apperence on the battle field was cause in itself for fear. 
-{mon_horchi_inf}	Dismounted Khorchi 
-{mon_hoshiga_descr_short}	Hoshiga, vanguard formed of light horse archers. 
-{mon_hoshiga_descr}	Qualité : Supérieure.\nType : Local.\n\nUsed as the vanguard of Mongolian armies, these warriors bore nothing besides their swift horse and their bow. With no armor, they avoid hand-to-hand combat, prefering to circle and shoot the enemy from a distance. 
+{mon_horchi_inf_descr_short}	Archers en armure lourde
+{mon_horchi_inf_descr}	Qualité : Elite.\nType : Professionnel de première période.\n\nCes guerriers d'élite ne sont pas de moins redoutables adversaires lorsqu'ils sont à pied. En armure lourde, armés d'une masse et d'un arc, leur présence sur le champ de bataille provoque à elle-seule une certaine crainte.
+{mon_horchi_inf}	Khorchi à pied
+{mon_hoshiga_descr_short}	Hoshiga, avant-garde formée d'archers montés légers.
+{mon_hoshiga_descr}	Qualité : Supérieure.\nType : Local.\n\nUtilisés comme l'avant-garde des armées mongoles, ces guerriers ne portent rien en dehors de leur cheval et leur arc. Dépourvus d'armure, ils évitent le corps-à-corps, préférant encercler l'ennemi et le tuer à distance.
 {mon_hoshiga}	Hoshiga
-{mon_hoshuchi_descr_short}	Armored in light leather or chain armor and armed with spears and daggers
-{mon_hoshuchi_descr}	Qualité : Supérieure.\nType : Local.\n\nArmored in light leather or chain armor and armed with spears and daggers, these warriors were very mobile. Consisting of the bravest warriors and with the fastest mounts, they were used for surprise flanking attacks. 
+{mon_hoshuchi_descr_short}	Guerriers protégés par une armure légère en cuir ou une cotte de mailles, et armés d'une lance et d'une dague.
+{mon_hoshuchi_descr}	Qualité : Supérieure.\nType : Local.\n\nProtégés par une armure légère en cuir ou une cotte de mailles, et armés d'une lance et d'une dague, ces guerriers étaient très mobiles. Constitués des guerriers les plus braves et des montures les plus rapides, ils étaient utilisés pour des attaques surprise sur les flancs.
 {mon_hoshuchi}	Hohuchi
 {mon_kashtim_descr_short}	Light infantry made up of conquered peoples. 
 {mon_kashtim_descr}	Qualité : Milice paysanne.\nType : Milice urbaine.\n\nMade up of prisoners and peoples of conquered lands, these lightly armed men are used primaraly as cannon-fodder, when and where needed. For their death is unremarked by the Khan, their are always more where they came from. 
