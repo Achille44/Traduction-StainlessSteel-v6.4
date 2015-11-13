@@ -1990,7 +1990,7 @@
 {Militia_Serjeants_descr_short}	Unité de milice de qualité équipée d'armes d'hast.
 {NE_Urban_Militia}	Milice urbaine
 {NE_Urban_Militia_descr}	Qualité : Milice paysanne.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nL'accroissement des villes et du commerce accroit la nécessité d'une défense locale. Certaines villes et cités peuvent fournir une levée locale, recrutée parmi les apprentis et les compagnons. Bien qu'ils naient qu'un entraînement limité, leurs armes d'hast leurs donnent un avantage face aux troupes en armure, et ils sont plus disciplinés que les paysans.
-{NE_Urban_Militia_descr_short}	Citadins armés d'une hace à deux mains.
+{NE_Urban_Militia_descr_short}	Citadins armés d'une hache à deux mains.
 {Squires}	Ecuyers
 {Squires_descr}	Les écuyers sont de jeunes hommes de 13 ou 14 ans qui aspirent au rang de chevalier. Issus de familles nobles autour d'un château de seigneur, ces jeunes hommes passent plus de temps à porter l'équipement et à s'occuper du cheval d'un chevalier.
 {Squires_descr_short}	Jeunes hommes, chevaliers en entraînement équipés de masses et de boucliers.
@@ -2009,7 +2009,7 @@
 {mon_habutu_cav_descr_short}	Archers montés légers, parmi les plus nombreux soldats mongols.
 {mon_habutu_cav_descr}	Les mongols prennent soin de leur troupeau, chassent et tirent à l'arc. Ils sont tous, jeune et vieux, de bons archers et d'excellents cavaliers, du fait qu'ils commencent à monter à cheval presque à la naissance. Ces hommes répugnent à combattre au corps-à-corps, et préfèrent tirer et tuer à distance, chassant l'ennemi comme de la viande.
 {mon_habutu_cav}	Khabutu
-{mon_habutu_inf_descr_short}	Archers légers armés avec de redoutables arcs composites
+{mon_habutu_inf_descr_short}	Archers légers armés de redoutables arcs composites
 {mon_habutu_inf_descr}	Qualité : Supérieure.\nType : Local.\n\nGuerriers expérimentés et disciplinés, ils infligent des dégâts palpables à l'ennemi avec leurs nuages de flèches. Ils brisent l'ennemi à distance, mais peuvent aussi combattre au corps-à-corps, bien que leur armure légère ne soit pas une très bonne défense.
 {mon_habutu_inf}	Archers Khabutu à pied
 {mon_horchi_cav_descr_short}	Archers montés en armure lourde
@@ -2024,25 +2024,25 @@
 {mon_hoshuchi_descr_short}	Guerriers protégés par une armure légère en cuir ou une cotte de mailles, et armés d'une lance et d'une dague.
 {mon_hoshuchi_descr}	Qualité : Supérieure.\nType : Local.\n\nProtégés par une armure légère en cuir ou une cotte de mailles, et armés d'une lance et d'une dague, ces guerriers étaient très mobiles. Constitués des guerriers les plus braves et des montures les plus rapides, ils étaient utilisés pour des attaques surprise sur les flancs.
 {mon_hoshuchi}	Hohuchi
-{mon_kashtim_descr_short}	Light infantry made up of conquered peoples. 
-{mon_kashtim_descr}	Qualité : Milice paysanne.\nType : Milice urbaine.\n\nMade up of prisoners and peoples of conquered lands, these lightly armed men are used primaraly as cannon-fodder, when and where needed. For their death is unremarked by the Khan, their are always more where they came from. 
+{mon_kashtim_descr_short}	Infanterie légère constituée de peuples conquis.
+{mon_kashtim_descr}	Qualité : Milice paysanne.\nType : Milice urbaine.\n\nComprenant des prisonniers et des habitants de territoires conquis, ces hommes légèrement armés servent principalement de chair à canon, où et quand il y en a besoin. Bien que leur mort ne soit pas remarquée par le Khan, elle l'est plus par leur peuple.
 {mon_kashtim}	Kishtim
-{mon_keshikten_descr_short}	Brave and loyal bodyguards. 
-{mon_keshikten_descr}	Qualité : Elite.\nType : Professionnel de première période.\n\nWhen readying for war with the Jin dynasty, Ghengis Khan created an imperial bodyguard from his finest, bravest and most loyal troops - the keshik. Armored in heavy armor, on armored horses, the keshik charge was as unstobable as it was terrifying. There is now power in the world capable of standing against them. 
+{mon_keshikten_descr_short}	Gardes du corps courageux et loyaux.
+{mon_keshikten_descr}	Qualité : Elite.\nType : Professionnel de première période.\n\nLorsqu'ils se préparait à la guerre contre la dynastie Jin, Ghengis Khan créa une garde du crops impériale constituée de ses plus courageuses et loyales troupes - les keshik. Protégés par une armure lourde, sur des chevaux en armure, la charge des keshik était aussi instoppable que terrifiante. Il n'y a aucune force au monde capable de leur tenir tête.
 {mon_keshikten}	Keshik
-{mon_lubchiten_descr_short}	The most numerous of mongol warriors. 
-{mon_lubchiten_descr}	Qualité : Elite.\nType : Local.\n\nThe wide open spaces of the steppes and the nomadic way of life leads to a supremacy of the mounted light horse archer. Armed in light leather and a composite bow. Upon meeting the enemy, each man shoots three or four arrows and, if they see that victory cannot be achieved in a fair fight, they pretend to flee, trying to draw the enemy into an ambush. 
+{mon_lubchiten_descr_short}	Les guerriers mongols les plus nombreux.
+{mon_lubchiten_descr}	Qualité : Elite.\nType : Local.\n\nLes immenses espaces ouverts des steppes et le nomadisme mènent à une suprématie de l'archer monté léger. Celui-ci est armé d'un arc composite et d'une armure légère en cuir. Dès que l'ennemi est à portée, chaque homme tire troi ou quatre flèches et, s'ils voient que la victoire ne peut pas être acquise dans un combat loyal, ils font semblant de fuir, afin d'attirer l'ennemi dans une embuscade.
 {mon_lubchiten}	Lubchiten
-{mon_mergen_descr_short}	All Mongols are masters at the bow. But these men are the masters amongst masters. 
-{mon_mergen_descr}	Qualité : Exceptionnelle.\nType : Professionnel de première période.\n\nAll Mongols are masters at the bow. But these men are the masters amongst masters. These warriors were used to pick off the best of the enemy at the begining of battle. No one can make their arrows fly truer or farther. 
+{mon_mergen_descr_short}	Tous les Mongols sont des maîtres de l'archerie. Mais ces hommes sont les maîtres parmi les maîtres.
+{mon_mergen_descr}	Qualité : Exceptionnelle.\nType : Professionnel de première période.\n\nTous les Mongols sont des maîtres de l'archerie. Mais ces hommes sont les maîtres parmi les maîtres. Ces guerriers étaient utilisés pour toucher les meilleurs éléments ennemis au début de la bataille. Personne ne peut faire voler leurs flèches plus loin et avec plus de précision.
 {mon_mergen}	Merguen
 {mon_nukeri_descr_short}	Nukeri
-{mon_nukeri_descr}	Qualité : Elite.\nType : Local.\n\nThese well trained, elite men in their light armor are capable of darkening the skies with their clouds of arrows. Armed with at least a composite bow with three full quivers of arrows and curved sabers. 
+{mon_nukeri_descr}	Qualité : Elite.\nType : Local.\n\nCes soldats d'élite bien entraînés dans leur armure légère sont capables d'assombrir le ciel avec leurs nuages de flèches. Ils sont armés avec au moins un arc composite et trois carquois remplis de flèches, ainsi que d'un sabre courbé.
 {mon_nukeri}	Nukeri
 {mon_torhaguti_cav_descr_short}	Turhagut
-{mon_torhaguti_cav_descr}	Qualité : Supérieure.\nType : Professionnel de première période.\n\nHeavily armed men who keep the day watch. Experienced men armored in a lamellar cuirass called a 'khuyad', they never let an enemy closer than what is needed for a thrust of their spear, or a bite of their gulda. But not only are these warriors protected, their war-trained mounts are as well.  
+{mon_torhaguti_cav_descr}	Qualité : Supérieure.\nType : Professionnel de première période.\n\nDes hommes lourdement armés montant la garde. Soldats expérimentés protégés par une cuirasse lamelaire nommée 'khuyad', ils ne laissent jamais un ennemi s'approcher plus près qu'il n'est nécessaire pour un coup de lance, ou pour une morsure de leur gulda. Leurs montures entraînées à la guerre sont elles aussi protégées.
 {mon_torhaguti_cav}	Turhagut
-{mon_torhaguti_inf_descr_short}	Dismounted Turhagut
+{mon_torhaguti_inf_descr_short}	Turhagut à pied
 {mon_torhaguti_inf_descr}	Qualité : Supérieure.\nType : Professionnel de première période.\n\nAs the hawk cannot fly without wings, so is the rider is weak and grounded without his mount. But if the Khan commands it, these men will do it. These dismounted warriors armored in heavy lamellar protect themselves from arrows with large rectangular shields. Who dares to confront these men? 
 {mon_torhaguti_inf}	Dismounted Turhagut
 {Polotsk_Boyar_Druzhina_descr_short}	Polotsk Boyar Druzhina
