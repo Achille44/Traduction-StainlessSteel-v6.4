@@ -2051,9 +2051,9 @@
 {sib_junior_militia_descr_short}	Jeune milice sibérienne
 {sib_junior_militia_descr}	Qualité : Moyenne.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nLe principal métier en Sibérie est la chasse, et c'est pourquoi les peuples de cette terre sont des maîtres chasseurs, tuant les écureuils avec une hampe dans l'oeil afin de préserver la fourrure. En temps de guerre, ces hommes emmènent leurs arcs et leurs compétences sur le champs de bataille. Sans armure, ils comptent sur la vitesse et la distance pour se protéger.
 {sib_junior_militia}	Jeune milice sibérienne
-{sib_senior_militia_descr_short}	Milice sibérienne confirmée
+{sib_senior_militia_descr_short}	Milice sibérienne supérieure
 {sib_senior_militia_descr}	Qualité : Milice.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nPiquiers lourds armés d'un descendant de la lance de chasse : leurs piques ont des ailes retroussées de chaque côté de la base, destinées à l'origine à freiner l'élan des animaux chargeant, et maintenant utilisées aussi efficacement contre les cavaliers. Protégés par une armure lamelaire, ces hommes constituent une puissante force sur n'importe quel champ de bataille à la fois contre la cavalerie et l'infanterie. 
-{sib_senior_militia}	Milice sibérienne confirmée
+{sib_senior_militia}	Milice sibérienne supérieure
 {cum_alan_axe_descr_short}	La milice des quelques villes trouvées dans les steppes coumanes. Ils sont armés des boucliers, de haches, et aident à se protéger des raids ennemis.
 {cum_alan_axe_descr}	Qualité : Moyenne.\nType : Local (manque d'entraînement, faible discipline et moral bas).\n\nLes steppes coumanes ne sont pas exclusivement nomades : quelques villes sont éparpillées dans les steppes, peuplées de fermiers et d'artisans. Les Alains - colons des terres de Tmoutarakan - y vivent aussi et servent comme miliciens dans ces villes. Ils sont armés des boucliers, de haches, et aident à se protéger des raids ennemis.
 {cum_alan_axe}	Alains des steppes
@@ -2090,39 +2090,39 @@
 {cum_yas_cav_a_sw_descr_short}	Archers montés moyens
 {cum_yas_cav_a_sw_descr}	Qualité : Supérieure.\nType : Local (manque d'entraînement, faible discipline et moral bas).\n\nLa région frontalière entre les montagnes du Caucase et les steppes sont habitées par les Yasi. Leurs troupes montées sont bien armées pour combattre les raids coumans constants sur leurs terres. Un cheval rapide, un arc, un bouclier et de puissants bras pour les tenir - qu'a-t-on besoin de plus pour défendre son foyer ?
 {cum_yas_cav_a_sw}	Yasi
-{kosog_senior_militia_ug0_descr_short}	Milice kasogi confirmée
+{kosog_senior_militia_ug0_descr_short}	Milice kasogi supérieure
 {kosog_senior_militia_ug0_descr}	Qualité : Milice.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nLes communautés des steppes avancées sont capables d'armer et de déployer une infanterie décente protégée par des armures lamelaires. Sur le champ de bataille ils écraseront aisément n'importe quelle infanterie légère envoyée contre eux. Avec leurs boucliers et leurs lances, même une charge de cavalerie légère n'est pas insurmontable.
-{kosog_senior_militia_ug0}	Milice kasogi confirmée
+{kosog_senior_militia_ug0}	Milice kasogi supérieure
 {Smolensk_Infantry_descr_short}	Vougiers de l'Est
 {Smolensk_Infantry_descr}	Qualité : Milice.\nType : Local (manque d'entraînement, faible discipline et moral bas).\n\nLa croissance des armureries a mené à un meilleur armement de masse. L'infanterie est une fois de plus le fer de lance sur le champ de bataille. Les piques à quatre tranchants que cette infanterie lourde utilise sont particulièrement efficaces contre la cavalerie en armure. Ils sont protégés par une brigandine faite d'une combinaison de cuir ou de tissu et d'une série de plates minutieusement reliées.
 {Smolensk_Infantry}	Vougiers de l'Est
-{alan_aldary_descr_short}	Aldari (Alani) 
-{alan_aldary_descr}	Qualité : Supérieure.\nType : Mercenaire (entretien élevé, moral et discipline souvent légèrement réduits).\n\nThese noble Alani form an excellent cavalery unit that combines a spear charge with high manueverability. They are armored in light armor, shield and helmet. With deft handling of their spears, these horsemen make an unstopable chase unit. 
-{alan_aldary}	Aldari (Alani)
-{alan_druzhina_aldarov_descr_short}	Aldari Druzhina (Alani). These mounted archers are protected by heavy armor and are armed with bow, sabre and round shield. 
-{alan_druzhina_aldarov_descr}	Qualité : Elite.\nType : Mercenaire (entretien élevé, moral et discipline souvent légèrement réduits).\n\nThis Druzhina belongs to the Alani rulers and is made up of the best, most elite warriors among the Aldari. Hard men in harder armor, with their composite bow and saber, see a lot of action on the field of battle and are very experienced warriors.
-{alan_druzhina_aldarov}	Aldari Druzhina (Alani)
-{Chude_Militia_descr_short}	Chude militia are armed with javelins, axes and small shields. 
-{Chude_Militia_descr}	Qualité : Milice.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nMilitia from the different chude tribes go to war for their Kniaz armed with javelins, axes and small shields. The wealthier ones can sometimes afford mail and even heavier armor, but this infantry is still considered light and would be hard-pressed to stand against real professional troops in the open. 
-{Chude_Militia}	Chude Militia
-{Dismounted_Junior_Druzhina_descr_short}	Dismounted Junior Druzhina — professional heavy archers in excellent armor. 
-{Dismounted_Junior_Druzhina_descr}	Qualité : Supérieure.\nType : Professionnel de première période.\n\nDismounted Junior Druzhina — professional heavy archers in excellent armor. 
-{Dismounted_Junior_Druzhina}	Dismounted Junior Druzhina
-{Rus_Senior_Militia_descr_short}	Rich city-dwellers clothed in leather and armed with spear and shield 
-{Rus_Senior_Militia_descr}	Qualité : Milice.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nAll citizens are called upon to defend their city. The richer folk can afford to arm themselves with spear, shield and leather armor. 
-{Rus_Senior_Militia}	Senior Rus Militia
-{Senior_Mounted_Militia_descr_short}	Very rich citizens, ones who can afford a fully trained war-horse are form competent militia - a huge asset, and despite their lack of military experience. 
-{Senior_Mounted_Militia_descr}	Qualité : Milice.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nThe riches available through Novgorod trade allow for an exceptionally well Equiped, no worse than any noble army, militia of merchants. Expensive horses, excellent arms and armor, allow them to fight on equal terms with any enemy of their Great Novgorod. Their lack of battle-forged experience makes them less steadfast then professional troops, however. 
-{Senior_Mounted_Militia}	Senior mounted militia
-{Junior_Druzhina_descr_short}	Junior Druzhina
-{Junior_Druzhina_descr}	Qualité : Supérieure.\nType : Professionnel de première période.\n\nDruzhina was formed in the earliest period of Russ history. Junior Druzhina means best one. Junior Druzhina is well Equiped and armed. 
-{Junior_Druzhina}	Junior Druzhina
-{Junior_Militia_descr_short}	Light infantry armed with axes and wooden shields. 
-{Junior_Militia_descr}	Qualité : Milice paysanne.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nWhen the call comes to defend their city, these Rus peasants answer armed with whatever they can afford; which normally consists of poorly crafted arms and armor as well as small shields. 
-{Junior_Militia}	Junior Militia
-{Tribal_Warrior_descr_short}	Tribesmen from North Africa armed with swords.
-{Tribal_Warrior_descr}	Qualité : Moyenne.\nType : Mercenaire (entretien élevé, moral et discipline souvent légèrement réduits).\n\nThese African infantry fight in a loose formation with swords. Although lightly armed, they are fierce warriors in battle.
-{Tribal_Warrior}	Tribal Warriors
-{Lith_Bodyguard_descr_short}	These warriors are the general's personal guard, fiercely loyal, there is little this unit cannot take on.
-{Lith_Bodyguard_descr}	Qualité : Exceptionnelle.\n\nThese are truly formidable troops whose task it is to guard their master wherever he goes. Experienced and hardy, this elite unit fights with a spear, as is common in Eastern Europe. They are well protected by heavy lamellar armor. Fiercely loyal and disciplined, there is little this unit cannot take on.
+{alan_aldary_descr_short}	Aldari
+{alan_aldary_descr}	Qualité : Supérieure.\nType : Mercenaire (entretien élevé, moral et discipline souvent légèrement réduits).\n\nCes nobles alains forment une excellente unité de cavalerie combinant une charge à la lance avec une grand manoeuvrabilité. Ils sont protégés par une armure légère, un bouclier et un casque. Avec leur habileté à la lance, ces cavaliers font une unité de poursuite instoppable.
+{alan_aldary}	Aldari
+{alan_druzhina_aldarov_descr_short}	Druzhina d'Aldari. Ces archers montés sont protégés par une armure lourde et sont armés d'un arc, d'un sabre et d'un bouclier rond.
+{alan_druzhina_aldarov_descr}	Qualité : Elite.\nType : Mercenaire (entretien élevé, moral et discipline souvent légèrement réduits).\n\nCette Druzhina appartient aux seigneurs alains et faite des meilleurs soldats d'élite parmi les Aldari. Hommes robustes dans des armures lourdes, avec leurs arcs composites et leurs sabres, il voient beaucoup d'action sur le champ de bataille et sont des guerriers très expérimentés.
+{alan_druzhina_aldarov}	Druzhina d'Aldari
+{Chude_Militia_descr_short}	Les milices tchoudes sont armées de javelots, de haches et de petits boucliers.
+{Chude_Militia_descr}	Qualité : Milice.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nMilice de différentes tribus tchoudes partant en guerre pour leur Knèze armée de javelots, de haches et de petits boucliers. Les plus riches peuvent parfois s'offrir une cotte de mailles ou encore plus lourd, mais cette infanterie est tout de même considérée comme légère et pourrait se trouver en difficulté face à des troupes professionnelles sur le champ de bataille.
+{Chude_Militia}	Milice tchoude
+{Dismounted_Junior_Druzhina_descr_short}	Première druzhina à pied - archers professionnels avec une armure lourde.
+{Dismounted_Junior_Druzhina_descr}	Qualité : Supérieure.\nType : Professionnel de première période.\n\nPremière druzhina à pied - archers professionnels avec une armure lourde.
+{Dismounted_Junior_Druzhina}	Première druzhina à pied
+{Rus_Senior_Militia_descr_short}	Riches citadins vêtus de cuir et armés d'une lance et d'un bouclier.
+{Rus_Senior_Militia_descr}	Qualité : Milice.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nTous les citoyens sont appelés à défendre leur ville. Les plus riches citadins peuvent s'armer eux-mêmes avec une lance, un bouclier et une armure en cuir.
+{Rus_Senior_Militia}	Milice russe supérieure
+{Senior_Mounted_Militia_descr_short}	Très riches citoyens, pouvant s'offrir un cheval de guerre bien entraîné, formant une milice compétente - un énorme atout, et ce malgré leur manque d'expérience militaire.
+{Senior_Mounted_Militia_descr}	Qualité : Milice.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nLes richesses générées par le commerce de Novgorod permettent de former un milice de marchands extrêmement bien équipée, autant qu'une armée de nobles. Des chevaux très chers, d'excellentes armes et armures, leur permettent de combattre à égalité avec n'importe quel ennemi de la Grande Principauté de Nogorod. Leur manque d'expérience au combat les rend moins tenace que des troupes professionnelles, cependant.
+{Senior_Mounted_Militia}	Milice montée supérieure
+{Junior_Druzhina_descr_short}	Première druzhina
+{Junior_Druzhina_descr}	Qualité : Supérieure.\nType : Professionnel de première période.\n\nLa druzhina fut formée dans les première périodes de l'histoire russe. Il s'agit de la meilleure. Elle est bien équipée et bien armée.
+{Junior_Druzhina}	Première druzhina
+{Junior_Militia_descr_short}	Infanterie légère armée de haches et de boucliers en bois.
+{Junior_Militia_descr}	Qualité : Milice paysanne.\nType : Milice urbaine (entretien nul dans les villes, moral réduit dans sur les champs de bataille).\n\nLorsqu'on les appelle pour défendre leurs villes, les paysans russes répondent en s'armant avec le peu qu'ils peuvent se permettre ; ce qui correspond généralement à des armes et des armures peu élaborées ainsi que de petits boucliers.
+{Junior_Militia}	Milice de cadets
+{Tribal_Warrior_descr_short}	Membres de tribus d'Afrique du Nord armés d'épées.
+{Tribal_Warrior_descr}	Qualité : Moyenne.\nType : Mercenaire (entretien élevé, moral et discipline souvent légèrement réduits).\n\nCes infanteries africaines combattent en formation relâchée avec des épées. Bien que légèrement armés, ils sont de féroces guerriers au combat.
+{Tribal_Warrior}	Guerriers des tribus
+{Lith_Bodyguard_descr_short}	Ces soldats sont la garde personnelle du général, d'une loyauté à toute épreuve, et il y a peu de choses qu'ils ne peuvent pas faire.
+{Lith_Bodyguard_descr}	Qualité : Exceptionnelle.\n\nCe sont de formidables troupes dont la tâche est de protéger leur maître partout où il va. Expérimentée et résistante, cette unité combat avec des lances, comme c'est généralement le cas en Europe orientale. Ils sont bien protégés par une armure lamelaire. Férocement loyale et disciplinée, il y a peu de choses que cette unité ne peut pas faire.
 {Lith_Bodyguard}	Garde du corps du général
