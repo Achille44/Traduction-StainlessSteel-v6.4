@@ -1,0 +1,3 @@
+[campaign] early
+[scripts] AiSavage.txt BGR4.txt DisableRR.txt LimitedActivities.txt LongerAssimilation.txt PermanentArrows.txt Watchtowers.txt 
+[translation] Française

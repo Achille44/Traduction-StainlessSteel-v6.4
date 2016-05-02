@@ -1,0 +1,15 @@
+[name] Lusted AI
+[works for] all
+[grouped in] AI
+[description] IA Lusted, est la base réelle pour les deux autres d'IA présente ici.\n
+Il dispose d'une IA plus passive, avec des guerres au minimum et presque pas de coups bas.\n
+Aussi, il est très facile d'obtenir des alliances.\n\n
+Sommaire:\n
+Aggressiviter - 2/10\n
+Traitise - 2/10\n
+Fiabiliter - 8/10\n
+Campaigne de paix.
+[files]
+overwrite data\descr_faction_standing.txt
+overwrite data\descr_diplomacy.xml
+overwrite data\descr_campaign_ai_db.xml

@@ -1,0 +1,16 @@
+[name] Savage AI
+[works for] all
+[grouped in] AI
+[description] IA agressive est celle dont bénéficie la plupart des gens sur les forums SS.\n
+L'IA agressive est plus agressive que IA Lusted, mais pas traitre (bien plus ambitieuse) et l'ordinateur ne se bat pas contre plusieurs factions en même temps.\n
+Il est facile d'obtenir des alliances dès le début, beaucoup tiendra probablement pour le reste de la partie.\n
+Pourtant, la trahison peut arriver, cependant l'IA ne va pas aller dans une frénésie de guerre total.\n\n
+Aggressiviter - 5/10\n
+Traitise - 4/10\n
+Fiabiliter - 5/10\n
+Bon équilibre entre la paix et la guerre.
+[checked]
+[files]
+overwrite data\descr_faction_standing.txt
+overwrite data\descr_diplomacy.xml
+overwrite data\descr_campaign_ai_db.xml

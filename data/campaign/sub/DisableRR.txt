@@ -1,0 +1,9 @@
+[name] Disable Real Recruitment
+[works for] early late
+[description]
+Sélectionnez cette option pour désactiver tous les effets de recrutement réel.\n\n
+La plupart des unités seront formés en seulement 1 tour et sont disponibles dès le début du jeu (sauf pour les unités avec la poudre à canon).\n
+En outre, la zone de recrutement est également désactivée, ce qui signifie que vous pouvez recruter l'ensemble de vos unités n'importe où sur la carte.
+[files]
+overwrite data\export_descr_buildings.txt
+overwrite data\export_descr_unit.txt
