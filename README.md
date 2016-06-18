@@ -43,8 +43,7 @@ contenu à vérifier :
 - imperial_campaign_regions_and_settlement_names
 - menu_english
 
-traduction de Titanium à faire/fusionner :
-- campaign_descriptions
+traductions de Titanium à fusionner :
 - expanded
 - export_ancillaries
 - export_buildings
@@ -52,10 +51,12 @@ traduction de Titanium à faire/fusionner :
 - export_vnvs
 - historic_events
 - imperial_campaign_regions_and_settlement_names
-- menu_english
 - names
 - quotes
 - rebel_faction_descr
+
+traductions de Titanium à compléter :
+- campaign_descriptions
 
 
 ================================================================================================
@@ -63,4 +64,5 @@ traduction de Titanium à faire/fusionner :
 ================================================================================================
 
 
-Relecture export_units 49
+Relecture export_units l.49
+traduction campaign_descriptions l.40
