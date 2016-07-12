@@ -9,10 +9,10 @@ Contenu
 
 - dossier SS6.3 : contient la structure des fichiers texte du mod Stainless Steel en version 6.4, avec l'état actuel de la traduction. (Il s'agit bien de la version 6.4 mais le nom du dossier original est SS6.3)
 - dossier Titanium_Alpha : contient les fichiers texte du sous-mod Titanium en version 0.85, avec l'état actuel de la traduction.
-- dossier aide
-                * Le dossier SSOriginal contient les fichiers texte présents de base dans SS6.3\data\text, ainsi que les fichiers compris dans la BugFix_Compilation_v1.27 (http://www.twcenter.net/forums/showthread.php?640913-Bug-Fixes-for-SS6-4-DO-NOT-POST-ANY-BUGS-IN-HERE&p=13723098&viewfull=1#post13723098).
-                * Le dossier TitaniumOriginal contient les fichiers texte présents de base dans le dossier data\text de la version 0.85 du sous mod Titanium
-                * le dossier VanillaFrench contient des fichiers texte de la version française de Medieval II Vanilla, ainsi que des extensions.
+- dossier aide :
+    - Le dossier SSOriginal contient les fichiers texte présents de base dans SS6.3\data\text, ainsi que les fichiers compris dans la BugFix_Compilation_v1.27 (http://www.twcenter.net/forums/showthread.php?640913-Bug-Fixes-for-SS6-4-DO-NOT-POST-ANY-BUGS-IN-HERE&p=13723098&viewfull=1#post13723098).
+    - Le dossier TitaniumOriginal contient les fichiers texte présents de base dans le dossier data\text de la version 0.85 du sous mod Titanium
+    - le dossier VanillaFrench contient des fichiers texte de la version française de Medieval II Vanilla, ainsi que des extensions.
 
 
 Installation
@@ -28,37 +28,37 @@ Avancement
 
 SS6.3 :
 - contenu à vérifier :
-                * battle
-                * battle_descriptions
-                * building_battle
-                * campaign_descriptions
-                * climates
-                * diplomacy
-                * expanded
-                * export_ancillaries
-                * export_buildings
-                * export_units
-                * export_vnvs
-                * factionintrosubtitles
-                * historic_events
-                * imperial_campaign_regions_and_settlement_names
-                * menu_english
+    - battle
+    - battle_descriptions
+    - building_battle
+    - campaign_descriptions
+    - climates
+    - diplomacy
+    - expanded
+    - export_ancillaries
+    - export_buildings
+    - export_units
+    - export_vnvs
+    - factionintrosubtitles
+    - historic_events
+    - imperial_campaign_regions_and_settlement_names
+    - menu_english
 
 Titanium_Alpha :
 - traductions à fusionner avec celles de SS6.3 :
-                * expanded
-                * export_ancillaries
-                * export_buildings
-                * export_units
-                * export_vnvs
-                * historic_events
-                * imperial_campaign_regions_and_settlement_names
-                * names
-                * quotes
-                * rebel_faction_descr
+    - expanded
+    - export_ancillaries
+    - export_buildings
+    - export_units
+    - export_vnvs
+    - historic_events
+    - imperial_campaign_regions_and_settlement_names
+    - names
+    - quotes
+    - rebel_faction_descr
 
 - traductions fusionnées à compléter :
-                * campaign_descriptions
+	- campaign_descriptions
                
 
 Travail en cours
