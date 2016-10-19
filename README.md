@@ -58,11 +58,11 @@ Titanium_Alpha :
     - rebel_faction_descr
 
 - traductions fusionnées à compléter :
-	- campaign_descriptions
+	- en attente
                
 
 Travail en cours
 ----------------
 
 - SS6.3 : Relecture export_units l.49
-- Titanium_Alpha : traduction campaign_descriptions l.57
+- Titanium_Alpha : traduction campaign_descriptions terminée
