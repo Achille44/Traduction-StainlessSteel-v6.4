@@ -46,7 +46,6 @@ SS6.3 :
 
 Titanium_Alpha :
 - traductions à fusionner avec celles de SS6.3 :
-    - expanded
     - export_ancillaries
     - export_buildings
     - export_units
@@ -57,12 +56,12 @@ Titanium_Alpha :
     - quotes
     - rebel_faction_descr
 
-- traductions fusionnées à compléter :
-	- campaign_descriptions
+- traductions à compléter :
+	- expanded
                
 
 Travail en cours
 ----------------
 
 - SS6.3 : Relecture export_units l.49
-- Titanium_Alpha : retraduire campaign_descriptions l.42
+- Titanium_Alpha : expanded l.117
