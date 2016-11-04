@@ -46,7 +46,6 @@ SS6.3 :
 
 Titanium_Alpha :
 - traductions à fusionner avec celles de SS6.3 :
-    - export_ancillaries
     - export_buildings
     - export_units
     - export_vnvs
@@ -57,11 +56,11 @@ Titanium_Alpha :
     - rebel_faction_descr
 
 - traductions à compléter :
-	- expanded
+	- export_ancillaries
                
 
 Travail en cours
 ----------------
 
 - SS6.3 : Relecture export_units l.49
-- Titanium_Alpha : expanded l.1129
+- Titanium_Alpha : export_ancillaries l.661
