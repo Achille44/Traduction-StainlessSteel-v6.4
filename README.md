@@ -46,21 +46,23 @@ SS6.3 :
 
 Titanium_Alpha :
 - traductions à fusionner avec celles de SS6.3 :
-    - export_buildings
-    - export_units
     - export_vnvs
     - historic_events
     - imperial_campaign_regions_and_settlement_names
-    - names
     - quotes
-    - rebel_faction_descr
 
 - traductions à compléter :
 	- export_ancillaries
+    - export_units
                
+- traductions à revoir :               
+    - event_strings
+    - strat
+    - tooltips
+
 
 Travail en cours
 ----------------
 
 - SS6.3 : Relecture export_units l.49
-- Titanium_Alpha : export_ancillaries l.1057
+- Titanium_Alpha : export_ancillaries l.1057, export_units l.2156
