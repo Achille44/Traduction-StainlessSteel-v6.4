@@ -2,13 +2,13 @@
 ;
 
 accent English
-    factions england, scotland
+    factions england, scotland, kievan_rus, russia, poland, hungary, denmark, norway, lithuania
 
 accent Scottish
     factions 
 
 accent French
-    factions france, kievan_rus, russia, poland, hungary, denmark, norway, lithuania
+    factions france
 
 accent German
     factions hre, teutonic_order
