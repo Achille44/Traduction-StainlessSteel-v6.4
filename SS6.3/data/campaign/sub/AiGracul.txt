@@ -2,14 +2,14 @@
 [works for] all
 [grouped in] AI
 [required]
-[description] IA Gracul,connu pour son style agressif et de sa traitrise constante lorsque votre faction est faible. Vous pouvez perdre contre IA!\n
-Le style de jeu de l'ordinateur ressemble à la mienne - d'élargir et de tuer les plus faibles, même si c'est votre allié.\n
-L'ordinateur va également créer un grand nombre de blocs d'alliance, et le monde est en constante TOTAL WAR (guerre total)!\n
-Exploitation des alliés fonctionne que si vous étes beaucoup plus fort que vos alliés.\n\n
+[description] L'IA de Gracul, connue pour son style agressif et les trahisons contantes lorsque votre faction est faible. Vous pouvez vraiment perdre contre l'IA !\n
+Le style de jeu de l'ordinateur ressemble à la mienne - s'étendre et tuer les plus faibles, même si c'est votre allié.\n
+L'ordinateur va également créer un grand nombre de blocs d'alliances, et le monde est en constante GUERRE TOTAL !\n
+Vous garderez vos alliés uniquement si vous êtes bien plus forts qu'eux.\n\n
 Sommaire:\n
-Aggressiviter - 10/10\n
-Traitise - 10/10\n
-Fiabiliter - 2/10\n
+Agressivité - 10/10\n
+Trahison - 10/10\n
+Fiabilité - 2/10\n
 Guerre contante.
 [files]
 overwrite data\descr_faction_standing.txt

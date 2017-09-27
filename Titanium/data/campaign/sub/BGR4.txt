@@ -1,0 +1,37 @@
+[name] Byg's Grim Reality IV
+[works for] early early1139
+[grouped in] BGR
+[description] Byg's Grim Reality, Depth and Realism Mod ver. IV-E\n\n
+Ce mod est destiné aux joueurs experts - avant d'activer ce mod, soyez sûr de visiter :\n
+www.twcenter.net/forums/showthread.php?t=106060\n
+www.nerazzurri.net/bgr-forum/viewtopic.php?t=97\n\n
+Avec:\n
+- Système de ravitaillement, le moral sur le terrain, système de commandement\n
+- Progression des armées féodales aux armées centralisées\n
+- Richesse personnelle des Nobles et des leurs propriétés, gestion économique de 3 manières, la criminalité et les systèmes de répression\n
+- Zones de recrutement religieuses dynamiques, recrutement par rang, effets de zèle à l'échelle de la faction\n
+En raison de la complexité accrue et la difficulté, ce mod n'est pas recommandé pour les nouveaux arrivants à Stainless Steel.\n\n
+Soyez conscient que jouer avec BGR aura une incidence sur les temps de passage des tours !
+[files]
+append data\export_descr_character_traits.txt with traits.txt before:
+;=========================================;
+;======== VNV TRIGGERS START HERE ========;
+;=========================================;
+<end>
+append data\export_descr_character_traits.txt with triggers.txt
+append data\export_descr_ancillaries.txt with anc.txt before:
+;=========================================;
+;======== ANC TRIGGERS START HERE ========;
+;=========================================;
+<end>
+append data\export_descr_ancillaries.txt with anc_triggers.txt
+append data\world\maps\campaign\imperial_campaign\campaign_script.txt with script.txt after:
+;=======================================================;
+;================= ADDITIONAL SCRIPTS ==================;
+;=======================================================;
+<end>
+append data\text\historic_events.txt with historic_events.txt
+append data\text\export_ancillaries.txt with export_ancillaries.txt
+append data\text\export_vnvs.txt with export_vnvs.txt
+append data\text\export_ancillaries.txt with export_ancillaries.txt
+overwrite data\descr_campaign_db.xml

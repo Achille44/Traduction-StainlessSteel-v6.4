@@ -1,0 +1,30 @@
+[name] Byg's Grim Reality II
+[works for] early early1139 high
+[grouped in] BGR
+[description] Byg's Grim Reality, Depth and Realism Mod ver. II\n\n
+Une version antérieure, et beaucoup moins complexe de BGR.\n
+Propose un système de ravitaillement pour l'armée et des traits dépendant des victoires/défaites, pouvant considérablement affecter vos campagnes en territoire ennemi !\n\n
+Pour plus d'infos :\n
+www.twcenter.net/forums/showthread.php?t=106060
+[files]
+append data\export_descr_character_traits.txt with traits.txt before:
+;=========================================;
+;======== VNV TRIGGERS START HERE ========;
+;=========================================;
+<end>
+append data\export_descr_character_traits.txt with triggers.txt
+append data\text\export_vnvs.txt with export_vnvs.txt
+replace data\descr_campaign_db.xml with revolt.xml from: 
+	<revolt>
+to:
+	</revolt>
+replace data\descr_campaign_db.xml with: 
+		<sack_money_modifier float="0.15"/>
+on:
+		<sack_money_modifier float="0.2"/>
+<end>
+replace data\descr_campaign_db.xml with: 
+		<exterminate_money_modifier float="0.4"/>
+on:
+		<exterminate_money_modifier float="1.1"/>
+<end>

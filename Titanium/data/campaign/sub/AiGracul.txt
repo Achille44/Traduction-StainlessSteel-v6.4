@@ -1,0 +1,17 @@
+[name] Gracul AI
+[works for] early early1139
+[grouped in] AI
+[required]
+[description] L'IA de Gracul, connue pour son style agressif et les trahisons contantes lorsque votre faction est faible. Vous pouvez vraiment perdre contre l'IA !\n
+Le style de jeu de l'ordinateur ressemble à la mienne - s'étendre et tuer les plus faibles, même si c'est votre allié.\n
+L'ordinateur va également créer un grand nombre de blocs d'alliances, et le monde est en constante GUERRE TOTAL !\n
+Vous garderez vos alliés uniquement si vous êtes bien plus forts qu'eux.\n\n
+Sommaire:\n
+Agressivité - 10/10\n
+Trahison - 10/10\n
+Fiabilité - 2/10\n
+Guerre contante.
+[files]
+overwrite data\descr_faction_standing.txt
+overwrite data\descr_diplomacy.xml
+overwrite data\descr_campaign_ai_db.xml

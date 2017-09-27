@@ -11,7 +11,7 @@ Contenu
 - dossier Titanium_Alpha : contient les fichiers texte du sous-mod Titanium en version 0.85 patch 2, avec l'état actuel de la traduction.
 - dossier aide :
     - Le dossier SSOriginal contient les fichiers texte présents de base dans SS6.3\data\text, ainsi que les fichiers compris dans la BugFix_Compilation_v1.27 (http://www.twcenter.net/forums/showthread.php?640913-Bug-Fixes-for-SS6-4-DO-NOT-POST-ANY-BUGS-IN-HERE&p=13723098&viewfull=1#post13723098).
-    - Le dossier TitaniumOriginal contient les fichiers texte présents de base dans le dossier data\text de la version 0.85 du sous mod Titanium
+    - Le dossier TitaniumOriginal contient les fichiers texte présents de base dans le dossier data\text de la version 0.85 du sous-mod Titanium
     - le dossier VanillaFrench contient des fichiers texte de la version française de Medieval II Vanilla, ainsi que des extensions.
 
 Avertissements
@@ -21,6 +21,9 @@ Le mod en question doit être installé avant la traduction. Il est recommandé 
 L'installation de sous-mods non compris dans la version officielle du mod peut rendre la traduction incompatible, si ces sous-mods ajoutent des textes.
 
 La traduction du mod Titanium corrige aussi les voix manquantes sur la campagne pour certaines factions (Ecosse, Danemark, Norvège, Pologne, Novgorod, Géorgie, Hongrie, Abodrites, Russie). Ce n'est malheureusement pas le cas pour Stainless Steel 6.4.
+
+Abandon de Titanium Alpha (v0.85) au profit de Titanium Beta (v0.9). On ne traduit plus directement les fichiers textes de data/text, mais les fichiers de campaign/... afin que les différents sous-mods soient pris en compte dans la traduction et qu'ils n'écrasent pas cette dernière.
+
 
 Installation
 ------------
@@ -54,7 +57,7 @@ SS6.3 :
     - menu_english
 
 Titanium_Alpha :
-- traductions à fusionner avec celles de SS6.3 :
+- traductions à fusionner avec SS6.3 :
     - export_vnvs
     - historic_events
     - imperial_campaign_regions_and_settlement_names
@@ -68,6 +71,18 @@ Titanium_Alpha :
     - event_strings
     - strat
     - tooltips
+
+Titanium (v0.9) :
+- sous-mods traduits :
+    - tous
+- traduction identiques à Titanium_Alpha :
+    - battle
+    - battle_descriptions
+    - campaign_descriptions
+    - climates
+    - diplomacy
+- traductions à fusionner avec Titanium_Alpha :
+    - expanded
 
 
 Travail en cours

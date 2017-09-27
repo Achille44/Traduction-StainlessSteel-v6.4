@@ -1,8 +1,8 @@
 [name] Longer Assimilation
 [works for] early late
-[description] Le processus des conquête des provinces est beaucoup plus difficile avec ce script.\n\n
-Pendant les premiers tours, une ville conquise auront des troubles de 10 à 25% en plus et une baisse des taux de conversion religieuse. Vos forces devront rester plus longtemps à l'intérieur d'une ville, donnant à l'ennemi le temps de regrouper ses forces et de contre-attaque.\n\n
-En outre, le joueur ne pourra construire ou réparer les batiements et tous recrutement et renforcement des toupes dans les premiers tours de la conquête sont impossible - qui reflète la réalité du temp néssaire pour établir une nouvelle administration dans une province conquise.
+[description] Le processus des conquêtes de provinces est beaucoup plus difficile avec ce script.\n\n
+Pendant les premiers tours, une ville conquise aura de 10 à 25% de troubles supplémentaires et une baisse du taux de conversion religieuse. Vos forces devront rester plus longtemps à l'intérieur d'une ville, donnant à l'ennemi le temps de regrouper ses forces et de contre-attaquer.\n\n
+De plus, le joueur ne peut pas construire/réparer/recruter lors du premier tour suivant la conquête de la ville - ce qui reflète le temps d'établissement d'une nouvelle administration dans une province conquise.
 [files]
 append data\world\maps\campaign\imperial_campaign\campaign_script.txt with script.txt after:
 ;=======================================================;

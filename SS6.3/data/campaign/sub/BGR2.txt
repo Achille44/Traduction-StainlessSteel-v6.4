@@ -3,8 +3,8 @@
 [grouped in] BGR
 [description] Byg's Grim Reality, Depth and Realism Mod ver. II\n\n
 Une version antérieure, et beaucoup moins complexe de BGR.\n
-Doté d'un système d'approvisionnement pour l'armée et un des traits dépend la victoire \ défaite qui peut considérablement affecter vos campagnes dans les terres de l'ennemi!\n\n
-Plus d'infos peuvent être obtenues:\n
+Propose un système de ravitaillement pour l'armée et des traits dépendant des victoires/défaites, pouvant considérablement affecter vos campagnes en territoire ennemi !\n\n
+Pour plus d'infos :\n
 www.twcenter.net/forums/showthread.php?t=106060
 [files]
 append data\export_descr_character_traits.txt with traits.txt before:

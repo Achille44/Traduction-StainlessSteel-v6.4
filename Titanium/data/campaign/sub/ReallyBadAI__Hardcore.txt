@@ -1,0 +1,19 @@
+[name]G5 ReallyBadAI Hardcore addon 
+[works for] all
+[description] Addon for G5 ReallyBadAI v5.x \n\n
+Pour les joueurs à la recherche de batailles plus difficiles, il crée une chaîne de commandement plus réaliste qui empêche de pouvoir constamment changer ses ordres.\n
+Il limite aussi le temps de déploiement de l'armée.\n
+Plus d'infos sur :\n
+http://www.twcenter.net/forums/showthread.php?t=253132
+
+[files]
+append data\world\maps\campaign\imperial_campaign\campaign_script.txt with ReallyBadAI_Hardcore.txt before: 
+;=======================================================;
+;============ TITANIUM ADDITIONAL SCRIPTS ==============;
+;=======================================================;
+<end>
+append data\scripts\show_me\G5Script2.txt with ReallyBadAI_Hardcore_Custom.txt after: 
+;=======================================================;
+;================= ADDITIONAL SCRIPTS ==================;
+;=======================================================;
+<end>

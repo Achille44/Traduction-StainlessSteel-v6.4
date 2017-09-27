@@ -1,0 +1,11 @@
+[name] Permanent Watchtowers
+[works for] early
+[description] Cette modification place des tours de guet permanentes sur la carte de campagne, afin que le joueur n'ait pas à les placer lui-même.\n
+Les tours de guet offrent un champ de visions sur toute la régiob, et aussi sur toutes les routes ou mers menant à la ville.
+[files] 
+replace data\world\maps\campaign\imperial_campaign\descr_strat.txt with watchtowers.txt from:
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; >>>> start of regions section <<<< Forts
+to:
+script
+campaign_script.txt

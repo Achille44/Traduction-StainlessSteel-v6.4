@@ -1,0 +1,9 @@
+[name] Minor Settlements Income
+[works for] early
+[description] Ajoute des revenus aux communautés mineures, afin de motiver leur capture.\n\n ATTENTION ! Peut agmenter les temps de passage des tours.
+[files]
+append data\world\maps\campaign\imperial_campaign\campaign_script.txt with script.txt after:
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;----	Minor Settlements Income Script
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+<end>

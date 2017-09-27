@@ -1,0 +1,26 @@
+[name] Courtesan Ladies Redux
+[works for] early early1139
+[grouped in] RLC
+[description]
+Ajoute des Courtisanes aux faction européennes.\n
+Ces Courtisanes agissent comme des princesses mais ne font pas partie de la famille dirigeante.\n\n
+Basé sur le sous-mod "Royal Ladies of the Court" de Bane_tw et Ishan.
+[files]
+translate data\text\missions.txt with text\rlc_missions.txt
+replace data\export_descr_character_traits.txt with rlc_export_descr_character_traits_triggers.txt from:
+;******************************************************
+;**********************RLC TRIGGERS*********************
+;******************************************************
+to:
+;Space for CLR submod triggers
+append data\export_descr_ancillaries.txt with rlc_export_descr_ancillaries_triggers.txt
+append data\world\maps\campaign\imperial_campaign\campaign_script.txt with rlc_scriptAI.txt after:
+;=======================================================;
+;================= ADDITIONAL SCRIPTS ==================;
+;=======================================================;
+<end>
+append data\world\maps\campaign\imperial_campaign\campaign_script.txt with rlc_script.txt after:
+;=======================================================;
+;================= ADDITIONAL SCRIPTS ==================;
+;=======================================================;
+<end>

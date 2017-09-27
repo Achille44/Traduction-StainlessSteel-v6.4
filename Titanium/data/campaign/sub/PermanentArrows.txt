@@ -1,0 +1,6 @@
+[name] Permanent Arrows
+[works for] all
+[description]Cette modification rend les flèches et de javelots permanent, de sorte qu'ils ne disparaissent pas pendant la bataille.\nBien sûr les flèches enflammées brûlent et deviennent poussière.\n\n
+Soyez conscient que cela nécessitera des ressources système supplémentaires pendant la bataille.
+[files]
+overwrite data\descr_effect_impacts.txt
