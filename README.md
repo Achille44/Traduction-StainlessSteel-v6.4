@@ -81,8 +81,6 @@ Titanium (v0.9) :
     - campaign_descriptions
     - climates
     - diplomacy
-- traductions à fusionner avec Titanium_Alpha :
-    - expanded
 
 
 Travail en cours
@@ -90,3 +88,4 @@ Travail en cours
 
 - SS6.3 : Relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
+- Titanium Beta : expanded l.734
