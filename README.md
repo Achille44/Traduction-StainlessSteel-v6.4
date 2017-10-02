@@ -81,6 +81,11 @@ Titanium (v0.9) :
     - campaign_descriptions
     - climates
     - diplomacy
+- traductions terminées :
+    - expanded
+    - export_ancillaries
+    - export_buildings
+    - export_units
 
 
 Travail en cours
@@ -88,4 +93,4 @@ Travail en cours
 
 - SS6.3 : Relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
-- Titanium Beta : export_buildings l.4045
+- Titanium Beta : export_vnvs l.27
