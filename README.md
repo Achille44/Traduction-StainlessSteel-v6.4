@@ -22,7 +22,7 @@ L'installation de sous-mods non compris dans la version officielle du mod peut r
 
 La traduction du mod Titanium corrige aussi les voix manquantes sur la campagne pour certaines factions (Ecosse, Danemark, Norvège, Pologne, Novgorod, Géorgie, Hongrie, Abodrites, Russie). Ce n'est malheureusement pas le cas pour Stainless Steel 6.4.
 
-Abandon de Titanium Alpha (v0.85) au profit de Titanium Beta (v0.9). On ne traduit plus directement les fichiers textes de data/text, mais les fichiers de campaign/... afin que les différents sous-mods soient pris en compte dans la traduction et qu'ils n'écrasent pas cette dernière.
+Abandon de Titanium Alpha (v0.85) au profit de Titanium Beta (v0.9). On ne traduit plus directement les fichiers textes de data/text, mais les fichiers de campaign/... afin que les différents sous-mods soient pris en compte dans la traduction et qu'ils n'écrasent pas cette dernière. ATTENTION : la traduction de Titanium Beta n'a pas été testée
 
 
 Installation
@@ -93,4 +93,4 @@ Travail en cours
 
 - SS6.3 : Relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
-- Titanium Beta : export_vnvs l.27
+- Titanium Beta : export_vnvs l.2181
