@@ -93,4 +93,4 @@ Travail en cours
 
 - SS6.3 : Relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
-- Titanium Beta : export_vnvs l.2181
+- Titanium Beta : export_vnvs l.3336
