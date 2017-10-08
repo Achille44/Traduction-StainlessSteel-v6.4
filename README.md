@@ -81,6 +81,8 @@ Titanium (v0.9) :
     - campaign_descriptions
     - climates
     - diplomacy
+    - factionintrosubtitles
+    - religions
 - traductions terminées :
     - expanded
     - export_ancillaries
@@ -93,4 +95,4 @@ Travail en cours
 
 - SS6.3 : Relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
-- Titanium Beta : export_vnvs l.3336
+- Titanium Beta : export_vnvs l.4153

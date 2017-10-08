@@ -2,9 +2,9 @@
 [works for] early early1139
 [grouped in] RLC
 [description]
-Ajoute des Courtisanes aux faction europÃ©ennes.\n
+Ajoute des Courtisanes aux faction européennes.\n
 Ces Courtisanes agissent comme des princesses mais ne font pas partie de la famille dirigeante.\n\n
-BasÃ© sur le sous-mod "Royal Ladies of the Court" de Bane_tw et Ishan.
+Basé sur le sous-mod "Royal Ladies of the Court" de Bane_tw et Ishan.
 [files]
 translate data\text\missions.txt with text\rlc_missions.txt
 replace data\export_descr_character_traits.txt with rlc_export_descr_character_traits_triggers.txt from:

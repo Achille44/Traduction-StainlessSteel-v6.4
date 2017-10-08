@@ -2,8 +2,8 @@
 [works for] early early1139 high
 [grouped in] BGR
 [description] Byg's Grim Reality, Depth and Realism Mod ver. II\n\n
-Une version antÃ©rieure, et beaucoup moins complexe de BGR.\n
-Propose un systÃ¨me de ravitaillement pour l'armÃ©e et des traits dÃ©pendant des victoires/dÃ©faites, pouvant considÃ©rablement affecter vos campagnes en territoire ennemi !\n\n
+Une version antérieure, et beaucoup moins complexe de BGR.\n
+Propose un système de ravitaillement pour l'armée et des traits dépendant des victoires/défaites, pouvant considérablement affecter vos campagnes en territoire ennemi !\n\n
 Pour plus d'infos :\n
 www.twcenter.net/forums/showthread.php?t=106060
 [files]

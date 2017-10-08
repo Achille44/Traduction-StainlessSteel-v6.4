@@ -1,19 +1,19 @@
 [name] Soulston AI
 [works for] early early1139
 [grouped in] AI
-[description] AmÃ©liorations de l'IA de campagne de Soulston\n
-BasÃ©e sur l'IA agressive\n
+[description] Améliorations de l'IA de campagne de Soulston\n
+Basée sur l'IA agressive\n
 L'IA a besoin de mauvaises relations avant d'envahir une faction non voisine\n
 Le Pape n'envahira pas les rebelles\n
-Les alliÃ©s fidÃ¨les aident plus\n
-Les alliances fonctionnent diffÃ©remment :\n
+Les alliés fidèles aident plus\n
+Les alliances fonctionnent différemment :\n
 - Les Catholiques ne s'allieront qu'aux Catholiques\n
 - Idem pour les Musulmans\n
-- Les Orthodoxes peuvent s'allier aux PaÃ¯ens.\n\n
-AgressivitÃ© - 6/10\n
+- Les Orthodoxes peuvent s'allier aux Païens.\n\n
+Agressivité - 6/10\n
 Trahison - 7/10\n
-FiabilitÃ© - 6/10\n
-IA Ã©quilibrÃ©e alternative
+Fiabilité - 6/10\n
+IA équilibrée alternative
 [files]
 overwrite data\descr_faction_standing.txt
 overwrite data\descr_diplomacy.xml

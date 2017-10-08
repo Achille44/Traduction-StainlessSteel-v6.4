@@ -1,8 +1,8 @@
 [name] Limited Activites
 [works for] early early1139 high
-[description] Cet ajout permet de mettre des Â« rÃ¨gles maison Â», avec lesquelles certains joueurs de Stainless Steel aiment jouer.\n\n
-Avec ce script, un joueur ne peut construire, recruter etc... que si un gouverneur est prÃ©sent dans la colonie. Sans gouverneur, le joueur ne peut lever l'auto-gestion.\n
-Un gouverneur doit Ãªtre prÃ©sent Ã  l'intÃ©rieur des murs d'une ville uniquement pour donner de nouveaux ordres, il est donc possible d'envoyer un gÃ©nÃ©ral dans un ville, ajuster les files d'attente, puis lui faire quitter la ville. Soyez conscient que vous ne pouvez pas arrÃªter une construction sans gouverneur.
+[description] Cet ajout permet de mettre des « règles maison », avec lesquelles certains joueurs de Stainless Steel aiment jouer.\n\n
+Avec ce script, un joueur ne peut construire, recruter etc... que si un gouverneur est présent dans la colonie. Sans gouverneur, le joueur ne peut lever l'auto-gestion.\n
+Un gouverneur doit être présent à l'intérieur des murs d'une ville uniquement pour donner de nouveaux ordres, il est donc possible d'envoyer un général dans un ville, ajuster les files d'attente, puis lui faire quitter la ville. Soyez conscient que vous ne pouvez pas arrêter une construction sans gouverneur.
 [files]
 append data\world\maps\campaign\imperial_campaign\campaign_script.txt with script.txt after:
 ;=======================================================;
