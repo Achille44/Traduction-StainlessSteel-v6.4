@@ -8,11 +8,13 @@ Contenu
 -------
 
 - dossier SS6.3 : contient la structure des fichiers texte du mod Stainless Steel en version 6.4, avec l'état actuel de la traduction. (Il s'agit bien de la version 6.4 mais le nom du dossier original est SS6.3)
+- dossier Titanium : contient les fichiers texte du sous-mod Titanium en version 0.9, avec l'état actuel de la traduction.
 - dossier Titanium_Alpha : contient les fichiers texte du sous-mod Titanium en version 0.85 patch 2, avec l'état actuel de la traduction.
 - dossier aide :
-    - Le dossier SSOriginal contient les fichiers texte présents de base dans SS6.3\data\text, ainsi que les fichiers compris dans la BugFix_Compilation_v1.27 (http://www.twcenter.net/forums/showthread.php?640913-Bug-Fixes-for-SS6-4-DO-NOT-POST-ANY-BUGS-IN-HERE&p=13723098&viewfull=1#post13723098).
-    - Le dossier TitaniumOriginal contient les fichiers texte présents de base dans le dossier data\text de la version 0.85 du sous-mod Titanium
-    - le dossier VanillaFrench contient des fichiers texte de la version française de Medieval II Vanilla, ainsi que des extensions.
+    - Le dossier SS6.4_Original contient les fichiers texte présents de base dans SS6.3\data\text, ainsi que les fichiers compris dans la BugFix_Compilation_v1.27 (http://www.twcenter.net/forums/showthread.php?640913-Bug-Fixes-for-SS6-4-DO-NOT-POST-ANY-BUGS-IN-HERE&p=13723098&viewfull=1#post13723098).
+    - Le dossier Titanium_Alpha_Original contient les fichiers texte présents de base dans le dossier data\text de la version 0.85 du sous-mod Titanium
+    - Le dossier Titanium_Beta_Original contient les fichiers texte présents de base dans le dossier data\text de la version 0.9 du sous-mod Titanium
+    - le dossier Vanilla_French contient des fichiers texte de la version française de Medieval II Vanilla, ainsi que des extensions.
 
 Avertissements
 --------------
@@ -75,7 +77,7 @@ Titanium_Alpha :
 Titanium (v0.9) :
 - sous-mods traduits :
     - tous
-- traduction identiques à Titanium_Alpha :
+- traductions identiques à Titanium_Alpha :
     - battle
     - battle_descriptions
     - campaign_descriptions
@@ -88,6 +90,7 @@ Titanium (v0.9) :
     - export_ancillaries
     - export_buildings
     - export_units
+    - export_vnvs
 
 
 Travail en cours
@@ -95,4 +98,4 @@ Travail en cours
 
 - SS6.3 : Relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
-- Titanium Beta : export_vnvs l.4497
+- Titanium Beta : historic_events l.317
