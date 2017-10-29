@@ -61,22 +61,6 @@ SS6.3 :
     - imperial_campaign_regions_and_settlement_names
     - menu_english
 
-Titanium_Alpha :
-- traductions à fusionner avec SS6.3 :
-    - export_vnvs
-    - historic_events
-    - imperial_campaign_regions_and_settlement_names
-    - quotes
-
-- traductions à compléter :
-	- export_ancillaries
-               
-- traductions à revoir :     
-    - campaign_descriptions          
-    - event_strings
-    - strat
-    - tooltips
-
 Titanium (v0.9) :
 - sous-mods traduits :
     - tous
@@ -93,6 +77,7 @@ Titanium (v0.9) :
     - export_units
     - export_vnvs
     - factionintrosubtitles
+    - historic_events
     - religions
 
 
@@ -101,4 +86,4 @@ Travail en cours
 
 - SS6.3 : Relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
-- Titanium Beta : historic_events l.961
+- Titanium Beta : imperial_campaign... l.1
