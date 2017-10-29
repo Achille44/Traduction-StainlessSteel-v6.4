@@ -36,6 +36,9 @@ Pour installer la traduction, il faut copier le dossier SS6.3 dans ...\Medieval 
 - Titanium Alpha v0.85 patch 2 :
 Assurez-vous d'avoir bien installé le mod en version 0.85 ET les patchs. Copiez ensuite le dossier Titanium_Alpha de la traduction dans ...\Medieval II Total War\mods en écrasant les fichiers existants si demandé.
 
+- Titanium Beta v0.9 :
+Copiez le dossier Titanium de la traduction dans ...\Medieval II Total War\mods en écrasant les fichiers existants si demandé, puis lancez le launcher SS_Setup.exe (situé dans le dossier Titanium).
+
 
 Avancement
 ----------
@@ -77,20 +80,20 @@ Titanium_Alpha :
 Titanium (v0.9) :
 - sous-mods traduits :
     - tous
-- traductions identiques à Titanium_Alpha :
+- traductions terminées :
     - battle
     - battle_descriptions
+    - building_battle
     - campaign_descriptions
     - climates
     - diplomacy
-    - factionintrosubtitles
-    - religions
-- traductions terminées :
     - expanded
     - export_ancillaries
     - export_buildings
     - export_units
     - export_vnvs
+    - factionintrosubtitles
+    - religions
 
 
 Travail en cours
@@ -98,4 +101,4 @@ Travail en cours
 
 - SS6.3 : Relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
-- Titanium Beta : historic_events l.630
+- Titanium Beta : historic_events l.961
