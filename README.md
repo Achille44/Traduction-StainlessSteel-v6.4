@@ -78,6 +78,10 @@ Titanium (v0.9) :
     - export_vnvs
     - factionintrosubtitles
     - historic_events
+    - imperial_campaign_regions_and_settlement_names
+    - menu_english
+    - missions
+    - names
     - religions
 
 
@@ -86,4 +90,4 @@ Travail en cours
 
 - SS6.3 : Relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
-- Titanium Beta : imperial_campaign... l.1
+- Titanium Beta : quotes l.21
