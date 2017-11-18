@@ -1,7 +1,7 @@
 [name] Watchtowers to Villages
 [works for] early1139
-[description]This mod replaces Watchtowers\n
-with Small Villages.
+[description]Ce mod remplace les Tours de Guet\n
+par des Petits Villages.
 [files] 
 translate data\text\expanded.txt
 translate data\text\strat.txt

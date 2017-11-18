@@ -83,7 +83,8 @@ Titanium (v0.9) :
     - missions
     - names
     - religions
-
+- traductions oubliées :
+    - event_strings
 
 Travail en cours
 ----------------
