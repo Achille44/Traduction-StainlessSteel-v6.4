@@ -83,6 +83,7 @@ Titanium (v0.9) :
     - missions
     - names
     - religions
+    - quotes
 - traductions oubliées :
     - event_strings
 
@@ -91,4 +92,4 @@ Travail en cours
 
 - SS6.3 : Relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
-- Titanium Beta : quotes l.293
+- Titanium Beta : event_strings
