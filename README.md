@@ -82,6 +82,7 @@ Titanium (v0.9) :
     - menu_english
     - missions
     - names
+    - rebel_faction_descr
     - religions
     - quotes
 - traductions oubliées :
@@ -92,4 +93,4 @@ Travail en cours
 
 - SS6.3 : Relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
-- Titanium Beta : event_strings l.1132
+- Titanium Beta : event_strings l.1238
