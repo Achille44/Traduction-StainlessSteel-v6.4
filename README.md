@@ -71,6 +71,7 @@ Titanium (v0.9) :
     - campaign_descriptions
     - climates
     - diplomacy
+    - event_strings
     - expanded
     - export_ancillaries
     - export_buildings
@@ -85,12 +86,10 @@ Titanium (v0.9) :
     - rebel_faction_descr
     - religions
     - quotes
-- traductions oubliées :
-    - event_strings
 
 Travail en cours
 ----------------
 
-- SS6.3 : Relecture export_units l.49
+- SS6.3 : relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
-- Titanium Beta : event_strings l.1458
+- Titanium Beta : relecture battle
