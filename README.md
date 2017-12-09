@@ -92,4 +92,4 @@ Travail en cours
 
 - SS6.3 : relecture export_units l.49
 - Titanium_Alpha : export_ancillaries l.2625
-- Titanium Beta : relecture battle
+- Titanium Beta : relecture campaign_descriptions l.28 + traduction campaign_descriptions(1139) l.6
